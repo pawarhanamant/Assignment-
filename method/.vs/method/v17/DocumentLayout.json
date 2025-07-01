@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c#\\method\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B27F3444-90BE-457F-AFFE-EF7983818155}|method3\\method3.csproj|c:\\c#\\method\\method3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B27F3444-90BE-457F-AFFE-EF7983818155}|method3\\method3.csproj|solutionrelative:method3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75257616-F9F5-4F07-B615-C8A26B31131F}|method\\method.csproj|c:\\c#\\method\\method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{75257616-F9F5-4F07-B615-C8A26B31131F}|method\\method.csproj|solutionrelative:method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{975BC607-4604-4648-9D7A-CCBD313EA102}|method2\\method2.csproj|c:\\c#\\method\\method2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{975BC607-4604-4648-9D7A-CCBD313EA102}|method2\\method2.csproj|solutionrelative:method2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c#\\method\\method3\\Program.cs",
+              "RelativeDocumentMoniker": "method3\\Program.cs",
+              "ToolTip": "C:\\c#\\method\\method3\\Program.cs",
+              "RelativeToolTip": "method3\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T15:07:23.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c#\\method\\method2\\Program.cs",
+              "RelativeDocumentMoniker": "method2\\Program.cs",
+              "ToolTip": "C:\\c#\\method\\method2\\Program.cs",
+              "RelativeToolTip": "method2\\Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T15:03:14.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c#\\method\\method\\Program.cs",
+              "RelativeDocumentMoniker": "method\\Program.cs",
+              "ToolTip": "C:\\c#\\method\\method\\Program.cs",
+              "RelativeToolTip": "method\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T14:50:54.151Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

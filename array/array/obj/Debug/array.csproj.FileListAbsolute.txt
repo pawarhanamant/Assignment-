@@ -1,0 +1,7 @@
+C:\c#\array\array\obj\Debug\array.csproj.AssemblyReference.cache
+C:\c#\array\array\obj\Debug\array.csproj.CoreCompileInputs.cache
+C:\c#\array\array\bin\Debug\array.exe.config
+C:\c#\array\array\bin\Debug\array.exe
+C:\c#\array\array\bin\Debug\array.pdb
+C:\c#\array\array\obj\Debug\array.exe
+C:\c#\array\array\obj\Debug\array.pdb

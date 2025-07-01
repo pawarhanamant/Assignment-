@@ -1,0 +1,11 @@
+C:\c#\mathlibrariess\mathlibrariess\bin\Debug\net8.0\mathlibrariess.deps.json
+C:\c#\mathlibrariess\mathlibrariess\bin\Debug\net8.0\mathlibrariess.dll
+C:\c#\mathlibrariess\mathlibrariess\bin\Debug\net8.0\mathlibrariess.pdb
+C:\c#\mathlibrariess\mathlibrariess\obj\Debug\net8.0\mathlibrariess.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\mathlibrariess\mathlibrariess\obj\Debug\net8.0\mathlibrariess.AssemblyInfoInputs.cache
+C:\c#\mathlibrariess\mathlibrariess\obj\Debug\net8.0\mathlibrariess.AssemblyInfo.cs
+C:\c#\mathlibrariess\mathlibrariess\obj\Debug\net8.0\mathlibrariess.csproj.CoreCompileInputs.cache
+C:\c#\mathlibrariess\mathlibrariess\obj\Debug\net8.0\mathlibrariess.dll
+C:\c#\mathlibrariess\mathlibrariess\obj\Debug\net8.0\refint\mathlibrariess.dll
+C:\c#\mathlibrariess\mathlibrariess\obj\Debug\net8.0\mathlibrariess.pdb
+C:\c#\mathlibrariess\mathlibrariess\obj\Debug\net8.0\ref\mathlibrariess.dll

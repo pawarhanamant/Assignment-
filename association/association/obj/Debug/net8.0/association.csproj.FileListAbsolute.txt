@@ -1,0 +1,14 @@
+C:\c#\association\association\bin\Debug\net8.0\association.exe
+C:\c#\association\association\bin\Debug\net8.0\association.deps.json
+C:\c#\association\association\bin\Debug\net8.0\association.runtimeconfig.json
+C:\c#\association\association\bin\Debug\net8.0\association.dll
+C:\c#\association\association\bin\Debug\net8.0\association.pdb
+C:\c#\association\association\obj\Debug\net8.0\association.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\association\association\obj\Debug\net8.0\association.AssemblyInfoInputs.cache
+C:\c#\association\association\obj\Debug\net8.0\association.AssemblyInfo.cs
+C:\c#\association\association\obj\Debug\net8.0\association.csproj.CoreCompileInputs.cache
+C:\c#\association\association\obj\Debug\net8.0\association.dll
+C:\c#\association\association\obj\Debug\net8.0\refint\association.dll
+C:\c#\association\association\obj\Debug\net8.0\association.pdb
+C:\c#\association\association\obj\Debug\net8.0\association.genruntimeconfig.cache
+C:\c#\association\association\obj\Debug\net8.0\ref\association.dll

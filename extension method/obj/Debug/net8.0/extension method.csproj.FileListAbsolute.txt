@@ -1,0 +1,14 @@
+C:\c#\extension method\bin\Debug\net8.0\extension method.exe
+C:\c#\extension method\bin\Debug\net8.0\extension method.deps.json
+C:\c#\extension method\bin\Debug\net8.0\extension method.runtimeconfig.json
+C:\c#\extension method\bin\Debug\net8.0\extension method.dll
+C:\c#\extension method\bin\Debug\net8.0\extension method.pdb
+C:\c#\extension method\obj\Debug\net8.0\extension method.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\extension method\obj\Debug\net8.0\extension method.AssemblyInfoInputs.cache
+C:\c#\extension method\obj\Debug\net8.0\extension method.AssemblyInfo.cs
+C:\c#\extension method\obj\Debug\net8.0\extension method.csproj.CoreCompileInputs.cache
+C:\c#\extension method\obj\Debug\net8.0\extension method.dll
+C:\c#\extension method\obj\Debug\net8.0\refint\extension method.dll
+C:\c#\extension method\obj\Debug\net8.0\extension method.pdb
+C:\c#\extension method\obj\Debug\net8.0\extension method.genruntimeconfig.cache
+C:\c#\extension method\obj\Debug\net8.0\ref\extension method.dll

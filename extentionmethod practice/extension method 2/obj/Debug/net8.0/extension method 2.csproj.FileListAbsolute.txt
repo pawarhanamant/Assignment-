@@ -1,0 +1,14 @@
+C:\c#\extentionmethod practice\extension method 2\bin\Debug\net8.0\extension method 2.exe
+C:\c#\extentionmethod practice\extension method 2\bin\Debug\net8.0\extension method 2.deps.json
+C:\c#\extentionmethod practice\extension method 2\bin\Debug\net8.0\extension method 2.runtimeconfig.json
+C:\c#\extentionmethod practice\extension method 2\bin\Debug\net8.0\extension method 2.dll
+C:\c#\extentionmethod practice\extension method 2\bin\Debug\net8.0\extension method 2.pdb
+C:\c#\extentionmethod practice\extension method 2\obj\Debug\net8.0\extension method 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\extentionmethod practice\extension method 2\obj\Debug\net8.0\extension method 2.AssemblyInfoInputs.cache
+C:\c#\extentionmethod practice\extension method 2\obj\Debug\net8.0\extension method 2.AssemblyInfo.cs
+C:\c#\extentionmethod practice\extension method 2\obj\Debug\net8.0\extension method 2.csproj.CoreCompileInputs.cache
+C:\c#\extentionmethod practice\extension method 2\obj\Debug\net8.0\extension method 2.dll
+C:\c#\extentionmethod practice\extension method 2\obj\Debug\net8.0\refint\extension method 2.dll
+C:\c#\extentionmethod practice\extension method 2\obj\Debug\net8.0\extension method 2.pdb
+C:\c#\extentionmethod practice\extension method 2\obj\Debug\net8.0\extension method 2.genruntimeconfig.cache
+C:\c#\extentionmethod practice\extension method 2\obj\Debug\net8.0\ref\extension method 2.dll

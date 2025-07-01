@@ -1,0 +1,7 @@
+C:\c#\if else\nesteadif\bin\Debug\nesteadif.exe.config
+C:\c#\if else\nesteadif\bin\Debug\nesteadif.exe
+C:\c#\if else\nesteadif\bin\Debug\nesteadif.pdb
+C:\c#\if else\nesteadif\obj\Debug\nesteadif.csproj.AssemblyReference.cache
+C:\c#\if else\nesteadif\obj\Debug\nesteadif.csproj.CoreCompileInputs.cache
+C:\c#\if else\nesteadif\obj\Debug\nesteadif.exe
+C:\c#\if else\nesteadif\obj\Debug\nesteadif.pdb

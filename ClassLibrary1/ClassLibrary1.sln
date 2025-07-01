@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary1", "ClassLibrary1\ClassLibrary1.csproj", "{C618FEAD-7D1F-44DA-ADAC-1C45B5B86CD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "clinetofmathlibary", "..\clinetofmathlibary\clinetofmathlibary.csproj", "{384A06D0-5BD0-479B-B8C4-9DD35B80FE9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C618FEAD-7D1F-44DA-ADAC-1C45B5B86CD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C618FEAD-7D1F-44DA-ADAC-1C45B5B86CD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C618FEAD-7D1F-44DA-ADAC-1C45B5B86CD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C618FEAD-7D1F-44DA-ADAC-1C45B5B86CD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{384A06D0-5BD0-479B-B8C4-9DD35B80FE9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{384A06D0-5BD0-479B-B8C4-9DD35B80FE9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{384A06D0-5BD0-479B-B8C4-9DD35B80FE9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{384A06D0-5BD0-479B-B8C4-9DD35B80FE9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {54AFA9E6-D25B-445A-947A-A2C0A01DAB5E}
+	EndGlobalSection
+EndGlobal

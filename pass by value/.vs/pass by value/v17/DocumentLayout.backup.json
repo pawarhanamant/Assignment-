@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c#\\pass by value\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADD9ADBB-D3AF-4487-AF05-5EC1383F2D07}|pass by value\\pass by value.csproj|c:\\c#\\pass by value\\pass by value\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADD9ADBB-D3AF-4487-AF05-5EC1383F2D07}|pass by value\\pass by value.csproj|solutionrelative:pass by value\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c#\\pass by value\\pass by value\\Program.cs",
+              "RelativeDocumentMoniker": "pass by value\\Program.cs",
+              "ToolTip": "C:\\c#\\pass by value\\pass by value\\Program.cs",
+              "RelativeToolTip": "pass by value\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T15:52:28.972Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

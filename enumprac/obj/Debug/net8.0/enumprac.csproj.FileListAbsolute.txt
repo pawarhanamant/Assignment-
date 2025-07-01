@@ -1,0 +1,14 @@
+C:\c#\enumprac\bin\Debug\net8.0\enumprac.exe
+C:\c#\enumprac\bin\Debug\net8.0\enumprac.deps.json
+C:\c#\enumprac\bin\Debug\net8.0\enumprac.runtimeconfig.json
+C:\c#\enumprac\bin\Debug\net8.0\enumprac.dll
+C:\c#\enumprac\bin\Debug\net8.0\enumprac.pdb
+C:\c#\enumprac\obj\Debug\net8.0\enumprac.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\enumprac\obj\Debug\net8.0\enumprac.AssemblyInfoInputs.cache
+C:\c#\enumprac\obj\Debug\net8.0\enumprac.AssemblyInfo.cs
+C:\c#\enumprac\obj\Debug\net8.0\enumprac.csproj.CoreCompileInputs.cache
+C:\c#\enumprac\obj\Debug\net8.0\enumprac.dll
+C:\c#\enumprac\obj\Debug\net8.0\refint\enumprac.dll
+C:\c#\enumprac\obj\Debug\net8.0\enumprac.pdb
+C:\c#\enumprac\obj\Debug\net8.0\enumprac.genruntimeconfig.cache
+C:\c#\enumprac\obj\Debug\net8.0\ref\enumprac.dll

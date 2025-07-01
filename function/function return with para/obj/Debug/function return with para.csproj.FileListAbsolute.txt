@@ -1,0 +1,7 @@
+C:\c#\function\function return with para\bin\Debug\function return with para.exe.config
+C:\c#\function\function return with para\bin\Debug\function return with para.exe
+C:\c#\function\function return with para\bin\Debug\function return with para.pdb
+C:\c#\function\function return with para\obj\Debug\function return with para.csproj.AssemblyReference.cache
+C:\c#\function\function return with para\obj\Debug\function return with para.csproj.CoreCompileInputs.cache
+C:\c#\function\function return with para\obj\Debug\function return with para.exe
+C:\c#\function\function return with para\obj\Debug\function return with para.pdb

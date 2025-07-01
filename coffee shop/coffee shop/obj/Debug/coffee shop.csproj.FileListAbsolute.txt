@@ -1,0 +1,2 @@
+C:\c#\coffee shop\coffee shop\obj\Debug\coffee shop.csproj.AssemblyReference.cache
+C:\c#\coffee shop\coffee shop\obj\Debug\coffee shop.csproj.CoreCompileInputs.cache

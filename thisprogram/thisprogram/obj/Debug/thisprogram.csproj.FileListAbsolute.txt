@@ -1,0 +1,7 @@
+C:\c#\thisprogram\thisprogram\bin\Debug\thisprogram.exe.config
+C:\c#\thisprogram\thisprogram\bin\Debug\thisprogram.exe
+C:\c#\thisprogram\thisprogram\bin\Debug\thisprogram.pdb
+C:\c#\thisprogram\thisprogram\obj\Debug\thisprogram.csproj.AssemblyReference.cache
+C:\c#\thisprogram\thisprogram\obj\Debug\thisprogram.csproj.CoreCompileInputs.cache
+C:\c#\thisprogram\thisprogram\obj\Debug\thisprogram.exe
+C:\c#\thisprogram\thisprogram\obj\Debug\thisprogram.pdb

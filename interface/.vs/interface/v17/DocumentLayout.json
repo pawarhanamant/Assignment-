@@ -1,0 +1,84 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c#\\interface\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{582C5901-93AF-4971-87A7-20102DD6EE91}|..\\enumprac\\enumprac.csproj|c:\\c#\\enumprac\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{582C5901-93AF-4971-87A7-20102DD6EE91}|..\\enumprac\\enumprac.csproj|c:\\c#\\enumprac\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C567D81-8C04-4E4A-A3B4-007F53F76B40}|..\\Generic\\Generic.csproj|c:\\c#\\generic\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C567D81-8C04-4E4A-A3B4-007F53F76B40}|..\\Generic\\Generic.csproj|c:\\c#\\generic\\mathscaluclator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "student.cs",
+              "DocumentMoniker": "C:\\c#\\enumprac\\student.cs",
+              "RelativeDocumentMoniker": "..\\enumprac\\student.cs",
+              "ToolTip": "C:\\c#\\enumprac\\student.cs",
+              "RelativeToolTip": "..\\enumprac\\student.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwAgAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T10:29:40.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c#\\enumprac\\Program.cs",
+              "RelativeDocumentMoniker": "..\\enumprac\\Program.cs",
+              "ToolTip": "C:\\c#\\enumprac\\Program.cs",
+              "RelativeToolTip": "..\\enumprac\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T10:06:10.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "mathscaluclator.cs",
+              "DocumentMoniker": "C:\\c#\\Generic\\mathscaluclator.cs",
+              "RelativeDocumentMoniker": "..\\Generic\\mathscaluclator.cs",
+              "ToolTip": "C:\\c#\\Generic\\mathscaluclator.cs",
+              "RelativeToolTip": "..\\Generic\\mathscaluclator.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwAkAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T09:23:15.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c#\\Generic\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Generic\\Program.cs",
+              "ToolTip": "C:\\c#\\Generic\\Program.cs",
+              "RelativeToolTip": "..\\Generic\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T08:48:51.121Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

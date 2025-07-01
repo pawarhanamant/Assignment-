@@ -1,0 +1,14 @@
+C:\c#\generimethod\bin\Debug\net8.0\generimethod.exe
+C:\c#\generimethod\bin\Debug\net8.0\generimethod.deps.json
+C:\c#\generimethod\bin\Debug\net8.0\generimethod.runtimeconfig.json
+C:\c#\generimethod\bin\Debug\net8.0\generimethod.dll
+C:\c#\generimethod\bin\Debug\net8.0\generimethod.pdb
+C:\c#\generimethod\obj\Debug\net8.0\generimethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\generimethod\obj\Debug\net8.0\generimethod.AssemblyInfoInputs.cache
+C:\c#\generimethod\obj\Debug\net8.0\generimethod.AssemblyInfo.cs
+C:\c#\generimethod\obj\Debug\net8.0\generimethod.csproj.CoreCompileInputs.cache
+C:\c#\generimethod\obj\Debug\net8.0\generimethod.dll
+C:\c#\generimethod\obj\Debug\net8.0\refint\generimethod.dll
+C:\c#\generimethod\obj\Debug\net8.0\generimethod.pdb
+C:\c#\generimethod\obj\Debug\net8.0\generimethod.genruntimeconfig.cache
+C:\c#\generimethod\obj\Debug\net8.0\ref\generimethod.dll

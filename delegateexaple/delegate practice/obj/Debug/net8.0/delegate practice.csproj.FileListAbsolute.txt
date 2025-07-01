@@ -1,0 +1,14 @@
+C:\c#\delegateexaple\delegate practice\obj\Debug\net8.0\delegate practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\delegateexaple\delegate practice\obj\Debug\net8.0\delegate practice.AssemblyInfoInputs.cache
+C:\c#\delegateexaple\delegate practice\obj\Debug\net8.0\delegate practice.AssemblyInfo.cs
+C:\c#\delegateexaple\delegate practice\obj\Debug\net8.0\delegate practice.csproj.CoreCompileInputs.cache
+C:\c#\delegateexaple\delegate practice\bin\Debug\net8.0\delegate practice.exe
+C:\c#\delegateexaple\delegate practice\bin\Debug\net8.0\delegate practice.deps.json
+C:\c#\delegateexaple\delegate practice\bin\Debug\net8.0\delegate practice.runtimeconfig.json
+C:\c#\delegateexaple\delegate practice\bin\Debug\net8.0\delegate practice.dll
+C:\c#\delegateexaple\delegate practice\bin\Debug\net8.0\delegate practice.pdb
+C:\c#\delegateexaple\delegate practice\obj\Debug\net8.0\delegate practice.dll
+C:\c#\delegateexaple\delegate practice\obj\Debug\net8.0\refint\delegate practice.dll
+C:\c#\delegateexaple\delegate practice\obj\Debug\net8.0\delegate practice.pdb
+C:\c#\delegateexaple\delegate practice\obj\Debug\net8.0\delegate practice.genruntimeconfig.cache
+C:\c#\delegateexaple\delegate practice\obj\Debug\net8.0\ref\delegate practice.dll

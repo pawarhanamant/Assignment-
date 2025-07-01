@@ -1,0 +1,14 @@
+C:\c#\CallbackFunctionExample\bin\Debug\net8.0\CallbackFunctionExample.exe
+C:\c#\CallbackFunctionExample\bin\Debug\net8.0\CallbackFunctionExample.deps.json
+C:\c#\CallbackFunctionExample\bin\Debug\net8.0\CallbackFunctionExample.runtimeconfig.json
+C:\c#\CallbackFunctionExample\bin\Debug\net8.0\CallbackFunctionExample.dll
+C:\c#\CallbackFunctionExample\bin\Debug\net8.0\CallbackFunctionExample.pdb
+C:\c#\CallbackFunctionExample\obj\Debug\net8.0\CallbackFunctionExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\CallbackFunctionExample\obj\Debug\net8.0\CallbackFunctionExample.AssemblyInfoInputs.cache
+C:\c#\CallbackFunctionExample\obj\Debug\net8.0\CallbackFunctionExample.AssemblyInfo.cs
+C:\c#\CallbackFunctionExample\obj\Debug\net8.0\CallbackFunctionExample.csproj.CoreCompileInputs.cache
+C:\c#\CallbackFunctionExample\obj\Debug\net8.0\CallbackFunctionExample.dll
+C:\c#\CallbackFunctionExample\obj\Debug\net8.0\refint\CallbackFunctionExample.dll
+C:\c#\CallbackFunctionExample\obj\Debug\net8.0\CallbackFunctionExample.pdb
+C:\c#\CallbackFunctionExample\obj\Debug\net8.0\CallbackFunctionExample.genruntimeconfig.cache
+C:\c#\CallbackFunctionExample\obj\Debug\net8.0\ref\CallbackFunctionExample.dll

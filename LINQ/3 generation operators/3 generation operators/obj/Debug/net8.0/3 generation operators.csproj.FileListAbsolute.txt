@@ -1,0 +1,14 @@
+C:\c#\LINQ\3 generation operators\3 generation operators\bin\Debug\net8.0\3 generation operators.exe
+C:\c#\LINQ\3 generation operators\3 generation operators\bin\Debug\net8.0\3 generation operators.deps.json
+C:\c#\LINQ\3 generation operators\3 generation operators\bin\Debug\net8.0\3 generation operators.runtimeconfig.json
+C:\c#\LINQ\3 generation operators\3 generation operators\bin\Debug\net8.0\3 generation operators.dll
+C:\c#\LINQ\3 generation operators\3 generation operators\bin\Debug\net8.0\3 generation operators.pdb
+C:\c#\LINQ\3 generation operators\3 generation operators\obj\Debug\net8.0\3 generation operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\LINQ\3 generation operators\3 generation operators\obj\Debug\net8.0\3 generation operators.AssemblyInfoInputs.cache
+C:\c#\LINQ\3 generation operators\3 generation operators\obj\Debug\net8.0\3 generation operators.AssemblyInfo.cs
+C:\c#\LINQ\3 generation operators\3 generation operators\obj\Debug\net8.0\3 generation operators.csproj.CoreCompileInputs.cache
+C:\c#\LINQ\3 generation operators\3 generation operators\obj\Debug\net8.0\3 generation operators.dll
+C:\c#\LINQ\3 generation operators\3 generation operators\obj\Debug\net8.0\refint\3 generation operators.dll
+C:\c#\LINQ\3 generation operators\3 generation operators\obj\Debug\net8.0\3 generation operators.pdb
+C:\c#\LINQ\3 generation operators\3 generation operators\obj\Debug\net8.0\3 generation operators.genruntimeconfig.cache
+C:\c#\LINQ\3 generation operators\3 generation operators\obj\Debug\net8.0\ref\3 generation operators.dll

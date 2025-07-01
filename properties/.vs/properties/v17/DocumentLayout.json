@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c#\\properties\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09D9F05D-29C2-47A0-9F96-54219F7192C8}|properties\\properties.csproj|c:\\c#\\properties\\properties\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09D9F05D-29C2-47A0-9F96-54219F7192C8}|properties\\properties.csproj|solutionrelative:properties\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09D9F05D-29C2-47A0-9F96-54219F7192C8}|properties\\properties.csproj|c:\\c#\\properties\\properties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09D9F05D-29C2-47A0-9F96-54219F7192C8}|properties\\properties.csproj|solutionrelative:properties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "student.cs",
+              "DocumentMoniker": "C:\\c#\\properties\\properties\\student.cs",
+              "RelativeDocumentMoniker": "properties\\student.cs",
+              "ToolTip": "C:\\c#\\properties\\properties\\student.cs",
+              "RelativeToolTip": "properties\\student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T10:28:01.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c#\\properties\\properties\\Program.cs",
+              "RelativeDocumentMoniker": "properties\\Program.cs",
+              "ToolTip": "C:\\c#\\properties\\properties\\Program.cs",
+              "RelativeToolTip": "properties\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T10:26:29.413Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

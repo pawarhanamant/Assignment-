@@ -1,0 +1,14 @@
+C:\c#\staticmethod\staticmethod\bin\Debug\net8.0\staticmethod.exe
+C:\c#\staticmethod\staticmethod\bin\Debug\net8.0\staticmethod.deps.json
+C:\c#\staticmethod\staticmethod\bin\Debug\net8.0\staticmethod.runtimeconfig.json
+C:\c#\staticmethod\staticmethod\bin\Debug\net8.0\staticmethod.dll
+C:\c#\staticmethod\staticmethod\bin\Debug\net8.0\staticmethod.pdb
+C:\c#\staticmethod\staticmethod\obj\Debug\net8.0\staticmethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\staticmethod\staticmethod\obj\Debug\net8.0\staticmethod.AssemblyInfoInputs.cache
+C:\c#\staticmethod\staticmethod\obj\Debug\net8.0\staticmethod.AssemblyInfo.cs
+C:\c#\staticmethod\staticmethod\obj\Debug\net8.0\staticmethod.csproj.CoreCompileInputs.cache
+C:\c#\staticmethod\staticmethod\obj\Debug\net8.0\staticmethod.dll
+C:\c#\staticmethod\staticmethod\obj\Debug\net8.0\refint\staticmethod.dll
+C:\c#\staticmethod\staticmethod\obj\Debug\net8.0\staticmethod.pdb
+C:\c#\staticmethod\staticmethod\obj\Debug\net8.0\staticmethod.genruntimeconfig.cache
+C:\c#\staticmethod\staticmethod\obj\Debug\net8.0\ref\staticmethod.dll

@@ -1,0 +1,11 @@
+C:\c#\mathlibrory2\mathlibrory2\bin\Debug\net8.0\mathlibrory2.deps.json
+C:\c#\mathlibrory2\mathlibrory2\bin\Debug\net8.0\mathlibrory2.dll
+C:\c#\mathlibrory2\mathlibrory2\bin\Debug\net8.0\mathlibrory2.pdb
+C:\c#\mathlibrory2\mathlibrory2\obj\Debug\net8.0\mathlibrory2.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\mathlibrory2\mathlibrory2\obj\Debug\net8.0\mathlibrory2.AssemblyInfoInputs.cache
+C:\c#\mathlibrory2\mathlibrory2\obj\Debug\net8.0\mathlibrory2.AssemblyInfo.cs
+C:\c#\mathlibrory2\mathlibrory2\obj\Debug\net8.0\mathlibrory2.csproj.CoreCompileInputs.cache
+C:\c#\mathlibrory2\mathlibrory2\obj\Debug\net8.0\mathlibrory2.dll
+C:\c#\mathlibrory2\mathlibrory2\obj\Debug\net8.0\refint\mathlibrory2.dll
+C:\c#\mathlibrory2\mathlibrory2\obj\Debug\net8.0\mathlibrory2.pdb
+C:\c#\mathlibrory2\mathlibrory2\obj\Debug\net8.0\ref\mathlibrory2.dll

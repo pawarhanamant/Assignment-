@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c#\\association\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19B6DBEC-F808-4102-90C8-01E25E89D9AE}|association\\association.csproj|c:\\c#\\association\\association\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B6DBEC-F808-4102-90C8-01E25E89D9AE}|association\\association.csproj|solutionrelative:association\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19B6DBEC-F808-4102-90C8-01E25E89D9AE}|association\\association.csproj|c:\\c#\\association\\association\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19B6DBEC-F808-4102-90C8-01E25E89D9AE}|association\\association.csproj|solutionrelative:association\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "student.cs",
+              "DocumentMoniker": "C:\\c#\\association\\association\\student.cs",
+              "RelativeDocumentMoniker": "association\\student.cs",
+              "ToolTip": "C:\\c#\\association\\association\\student.cs",
+              "RelativeToolTip": "association\\student.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA5wAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T11:17:23.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c#\\association\\association\\Program.cs",
+              "RelativeDocumentMoniker": "association\\Program.cs",
+              "ToolTip": "C:\\c#\\association\\association\\Program.cs",
+              "RelativeToolTip": "association\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T11:15:47.871Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

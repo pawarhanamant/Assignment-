@@ -1,0 +1,7 @@
+C:\c#\ternary\ternary\bin\Debug\ternary.exe.config
+C:\c#\ternary\ternary\bin\Debug\ternary.exe
+C:\c#\ternary\ternary\bin\Debug\ternary.pdb
+C:\c#\ternary\ternary\obj\Debug\ternary.csproj.AssemblyReference.cache
+C:\c#\ternary\ternary\obj\Debug\ternary.csproj.CoreCompileInputs.cache
+C:\c#\ternary\ternary\obj\Debug\ternary.exe
+C:\c#\ternary\ternary\obj\Debug\ternary.pdb

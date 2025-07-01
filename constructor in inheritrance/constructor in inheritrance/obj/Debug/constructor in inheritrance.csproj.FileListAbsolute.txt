@@ -1,0 +1,7 @@
+C:\c#\constructor in inheritrance\constructor in inheritrance\bin\Debug\constructor in inheritrance.exe.config
+C:\c#\constructor in inheritrance\constructor in inheritrance\bin\Debug\constructor in inheritrance.exe
+C:\c#\constructor in inheritrance\constructor in inheritrance\bin\Debug\constructor in inheritrance.pdb
+C:\c#\constructor in inheritrance\constructor in inheritrance\obj\Debug\constructor in inheritrance.csproj.AssemblyReference.cache
+C:\c#\constructor in inheritrance\constructor in inheritrance\obj\Debug\constructor in inheritrance.csproj.CoreCompileInputs.cache
+C:\c#\constructor in inheritrance\constructor in inheritrance\obj\Debug\constructor in inheritrance.exe
+C:\c#\constructor in inheritrance\constructor in inheritrance\obj\Debug\constructor in inheritrance.pdb

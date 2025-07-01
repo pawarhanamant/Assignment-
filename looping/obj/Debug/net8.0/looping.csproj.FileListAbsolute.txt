@@ -1,0 +1,14 @@
+C:\c#\looping\bin\Debug\net8.0\looping.exe
+C:\c#\looping\bin\Debug\net8.0\looping.deps.json
+C:\c#\looping\bin\Debug\net8.0\looping.runtimeconfig.json
+C:\c#\looping\bin\Debug\net8.0\looping.dll
+C:\c#\looping\bin\Debug\net8.0\looping.pdb
+C:\c#\looping\obj\Debug\net8.0\looping.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\looping\obj\Debug\net8.0\looping.AssemblyInfoInputs.cache
+C:\c#\looping\obj\Debug\net8.0\looping.AssemblyInfo.cs
+C:\c#\looping\obj\Debug\net8.0\looping.csproj.CoreCompileInputs.cache
+C:\c#\looping\obj\Debug\net8.0\looping.dll
+C:\c#\looping\obj\Debug\net8.0\refint\looping.dll
+C:\c#\looping\obj\Debug\net8.0\looping.pdb
+C:\c#\looping\obj\Debug\net8.0\looping.genruntimeconfig.cache
+C:\c#\looping\obj\Debug\net8.0\ref\looping.dll

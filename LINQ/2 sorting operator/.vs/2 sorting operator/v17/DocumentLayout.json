@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c#\\LINQ\\2 sorting operator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44ABD1A6-C081-4923-81EC-15A5F4E7D5DF}|2 sorting operator\\2 sorting operator.csproj|c:\\c#\\linq\\2 sorting operator\\2 sorting operator\\secondoverload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44ABD1A6-C081-4923-81EC-15A5F4E7D5DF}|2 sorting operator\\2 sorting operator.csproj|solutionrelative:2 sorting operator\\secondoverload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44ABD1A6-C081-4923-81EC-15A5F4E7D5DF}|2 sorting operator\\2 sorting operator.csproj|c:\\c#\\linq\\2 sorting operator\\2 sorting operator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44ABD1A6-C081-4923-81EC-15A5F4E7D5DF}|2 sorting operator\\2 sorting operator.csproj|solutionrelative:2 sorting operator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c#\\LINQ\\2 sorting operator\\2 sorting operator\\Program.cs",
+              "RelativeDocumentMoniker": "2 sorting operator\\Program.cs",
+              "ToolTip": "C:\\c#\\LINQ\\2 sorting operator\\2 sorting operator\\Program.cs",
+              "RelativeToolTip": "2 sorting operator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIEAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T09:18:08.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "secondoverload.cs",
+              "DocumentMoniker": "C:\\c#\\LINQ\\2 sorting operator\\2 sorting operator\\secondoverload.cs",
+              "RelativeDocumentMoniker": "2 sorting operator\\secondoverload.cs",
+              "ToolTip": "C:\\c#\\LINQ\\2 sorting operator\\2 sorting operator\\secondoverload.cs",
+              "RelativeToolTip": "2 sorting operator\\secondoverload.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T09:12:47.054Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

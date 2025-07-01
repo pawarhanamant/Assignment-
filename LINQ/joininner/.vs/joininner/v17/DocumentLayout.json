@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c#\\LINQ\\joininner\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AF9B14-D7ED-41B2-AF16-FFE56826253F}|joininner\\joininner.csproj|c:\\c#\\linq\\joininner\\joininner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AF9B14-D7ED-41B2-AF16-FFE56826253F}|joininner\\joininner.csproj|solutionrelative:joininner\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AF9B14-D7ED-41B2-AF16-FFE56826253F}|joininner\\joininner.csproj|c:\\c#\\linq\\joininner\\joininner\\treaner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AF9B14-D7ED-41B2-AF16-FFE56826253F}|joininner\\joininner.csproj|solutionrelative:joininner\\treaner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5AF9B14-D7ED-41B2-AF16-FFE56826253F}|joininner\\joininner.csproj|c:\\c#\\linq\\joininner\\joininner\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5AF9B14-D7ED-41B2-AF16-FFE56826253F}|joininner\\joininner.csproj|solutionrelative:joininner\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "student.cs",
+              "DocumentMoniker": "C:\\c#\\LINQ\\joininner\\joininner\\student.cs",
+              "RelativeDocumentMoniker": "joininner\\student.cs",
+              "ToolTip": "C:\\c#\\LINQ\\joininner\\joininner\\student.cs",
+              "RelativeToolTip": "joininner\\student.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T17:48:00.954Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "treaner.cs",
+              "DocumentMoniker": "C:\\c#\\LINQ\\joininner\\joininner\\treaner.cs",
+              "RelativeDocumentMoniker": "joininner\\treaner.cs",
+              "ToolTip": "C:\\c#\\LINQ\\joininner\\joininner\\treaner.cs",
+              "RelativeToolTip": "joininner\\treaner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T17:54:58.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c#\\LINQ\\joininner\\joininner\\Program.cs",
+              "RelativeDocumentMoniker": "joininner\\Program.cs",
+              "ToolTip": "C:\\c#\\LINQ\\joininner\\joininner\\Program.cs",
+              "RelativeToolTip": "joininner\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T17:46:42.479Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c#\\delegetsp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8B8A514-A8D6-45D9-9BE0-3F8AC3853285}|lambdaexpression\\lambdaexpression.csproj|c:\\c#\\delegetsp\\lambdaexpression\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8B8A514-A8D6-45D9-9BE0-3F8AC3853285}|lambdaexpression\\lambdaexpression.csproj|solutionrelative:lambdaexpression\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B55E8A-2320-4501-BEDC-8BEB98373422}|anonymousemethod\\anonymousemethod.csproj|c:\\c#\\delegetsp\\anonymousemethod\\anonymousess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B55E8A-2320-4501-BEDC-8BEB98373422}|anonymousemethod\\anonymousemethod.csproj|solutionrelative:anonymousemethod\\anonymousess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B55E8A-2320-4501-BEDC-8BEB98373422}|anonymousemethod\\anonymousemethod.csproj|c:\\c#\\delegetsp\\anonymousemethod\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B55E8A-2320-4501-BEDC-8BEB98373422}|anonymousemethod\\anonymousemethod.csproj|solutionrelative:anonymousemethod\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80B55E8A-2320-4501-BEDC-8BEB98373422}|anonymousemethod\\anonymousemethod.csproj|c:\\c#\\delegetsp\\anonymousemethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80B55E8A-2320-4501-BEDC-8BEB98373422}|anonymousemethod\\anonymousemethod.csproj|solutionrelative:anonymousemethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8B8A514-A8D6-45D9-9BE0-3F8AC3853285}|lambdaexpression\\lambdaexpression.csproj|c:\\c#\\delegetsp\\lambdaexpression\\lambadap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8B8A514-A8D6-45D9-9BE0-3F8AC3853285}|lambdaexpression\\lambdaexpression.csproj|solutionrelative:lambdaexpression\\lambadap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "anonymousess.cs",
+              "DocumentMoniker": "C:\\c#\\delegetsp\\anonymousemethod\\anonymousess.cs",
+              "RelativeDocumentMoniker": "anonymousemethod\\anonymousess.cs",
+              "ToolTip": "C:\\c#\\delegetsp\\anonymousemethod\\anonymousess.cs",
+              "RelativeToolTip": "anonymousemethod\\anonymousess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T08:39:12.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\c#\\delegetsp\\anonymousemethod\\Class1.cs",
+              "RelativeDocumentMoniker": "anonymousemethod\\Class1.cs",
+              "ToolTip": "C:\\c#\\delegetsp\\anonymousemethod\\Class1.cs",
+              "RelativeToolTip": "anonymousemethod\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T08:39:08.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c#\\delegetsp\\anonymousemethod\\Program.cs",
+              "RelativeDocumentMoniker": "anonymousemethod\\Program.cs",
+              "ToolTip": "C:\\c#\\delegetsp\\anonymousemethod\\Program.cs",
+              "RelativeToolTip": "anonymousemethod\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T08:38:59.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "lambadap.cs",
+              "DocumentMoniker": "C:\\c#\\delegetsp\\lambdaexpression\\lambadap.cs",
+              "RelativeDocumentMoniker": "lambdaexpression\\lambadap.cs",
+              "ToolTip": "C:\\c#\\delegetsp\\lambdaexpression\\lambadap.cs",
+              "RelativeToolTip": "lambdaexpression\\lambadap.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T10:56:11.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c#\\delegetsp\\lambdaexpression\\Program.cs",
+              "RelativeDocumentMoniker": "lambdaexpression\\Program.cs",
+              "ToolTip": "C:\\c#\\delegetsp\\lambdaexpression\\Program.cs",
+              "RelativeToolTip": "lambdaexpression\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwBYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T10:37:40.529Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\c#\staticconstructorexample\bin\Debug\net8.0\staticconstructorexample.exe
+C:\c#\staticconstructorexample\bin\Debug\net8.0\staticconstructorexample.deps.json
+C:\c#\staticconstructorexample\bin\Debug\net8.0\staticconstructorexample.runtimeconfig.json
+C:\c#\staticconstructorexample\bin\Debug\net8.0\staticconstructorexample.dll
+C:\c#\staticconstructorexample\bin\Debug\net8.0\staticconstructorexample.pdb
+C:\c#\staticconstructorexample\obj\Debug\net8.0\staticconstructorexample.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\staticconstructorexample\obj\Debug\net8.0\staticconstructorexample.AssemblyInfoInputs.cache
+C:\c#\staticconstructorexample\obj\Debug\net8.0\staticconstructorexample.AssemblyInfo.cs
+C:\c#\staticconstructorexample\obj\Debug\net8.0\staticconstructorexample.csproj.CoreCompileInputs.cache
+C:\c#\staticconstructorexample\obj\Debug\net8.0\staticconstructorexample.dll
+C:\c#\staticconstructorexample\obj\Debug\net8.0\refint\staticconstructorexample.dll
+C:\c#\staticconstructorexample\obj\Debug\net8.0\staticconstructorexample.pdb
+C:\c#\staticconstructorexample\obj\Debug\net8.0\staticconstructorexample.genruntimeconfig.cache
+C:\c#\staticconstructorexample\obj\Debug\net8.0\ref\staticconstructorexample.dll

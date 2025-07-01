@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c#\\Generics\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97828D6D-07EE-4CAC-95E1-F44190FAA4D6}|generic practice\\generic practice.csproj|c:\\c#\\generics\\generic practice\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97828D6D-07EE-4CAC-95E1-F44190FAA4D6}|generic practice\\generic practice.csproj|solutionrelative:generic practice\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97828D6D-07EE-4CAC-95E1-F44190FAA4D6}|generic practice\\generic practice.csproj|c:\\c#\\generics\\generic practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97828D6D-07EE-4CAC-95E1-F44190FAA4D6}|generic practice\\generic practice.csproj|solutionrelative:generic practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "student.cs",
+              "DocumentMoniker": "C:\\c#\\Generics\\generic practice\\student.cs",
+              "RelativeDocumentMoniker": "generic practice\\student.cs",
+              "ToolTip": "C:\\c#\\Generics\\generic practice\\student.cs",
+              "RelativeToolTip": "generic practice\\student.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAwAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T12:54:43.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c#\\Generics\\generic practice\\Program.cs",
+              "RelativeDocumentMoniker": "generic practice\\Program.cs",
+              "ToolTip": "C:\\c#\\Generics\\generic practice\\Program.cs",
+              "RelativeToolTip": "generic practice\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T12:52:49.816Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

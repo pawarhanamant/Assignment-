@@ -1,0 +1,14 @@
+C:\c#\multipleinterface\bin\Debug\net8.0\multipleinterface.exe
+C:\c#\multipleinterface\bin\Debug\net8.0\multipleinterface.deps.json
+C:\c#\multipleinterface\bin\Debug\net8.0\multipleinterface.runtimeconfig.json
+C:\c#\multipleinterface\bin\Debug\net8.0\multipleinterface.dll
+C:\c#\multipleinterface\bin\Debug\net8.0\multipleinterface.pdb
+C:\c#\multipleinterface\obj\Debug\net8.0\multipleinterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\multipleinterface\obj\Debug\net8.0\multipleinterface.AssemblyInfoInputs.cache
+C:\c#\multipleinterface\obj\Debug\net8.0\multipleinterface.AssemblyInfo.cs
+C:\c#\multipleinterface\obj\Debug\net8.0\multipleinterface.csproj.CoreCompileInputs.cache
+C:\c#\multipleinterface\obj\Debug\net8.0\multipleinterface.dll
+C:\c#\multipleinterface\obj\Debug\net8.0\refint\multipleinterface.dll
+C:\c#\multipleinterface\obj\Debug\net8.0\multipleinterface.pdb
+C:\c#\multipleinterface\obj\Debug\net8.0\multipleinterface.genruntimeconfig.cache
+C:\c#\multipleinterface\obj\Debug\net8.0\ref\multipleinterface.dll

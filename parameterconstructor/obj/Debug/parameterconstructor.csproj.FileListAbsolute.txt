@@ -1,0 +1,7 @@
+C:\c#\parameterconstructor\bin\Debug\parameterconstructor.exe.config
+C:\c#\parameterconstructor\bin\Debug\parameterconstructor.exe
+C:\c#\parameterconstructor\bin\Debug\parameterconstructor.pdb
+C:\c#\parameterconstructor\obj\Debug\parameterconstructor.csproj.AssemblyReference.cache
+C:\c#\parameterconstructor\obj\Debug\parameterconstructor.csproj.CoreCompileInputs.cache
+C:\c#\parameterconstructor\obj\Debug\parameterconstructor.exe
+C:\c#\parameterconstructor\obj\Debug\parameterconstructor.pdb

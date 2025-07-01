@@ -1,0 +1,14 @@
+C:\c#\delegetsp\delegetsp\bin\Debug\net8.0\delegetsp.exe
+C:\c#\delegetsp\delegetsp\bin\Debug\net8.0\delegetsp.deps.json
+C:\c#\delegetsp\delegetsp\bin\Debug\net8.0\delegetsp.runtimeconfig.json
+C:\c#\delegetsp\delegetsp\bin\Debug\net8.0\delegetsp.dll
+C:\c#\delegetsp\delegetsp\bin\Debug\net8.0\delegetsp.pdb
+C:\c#\delegetsp\delegetsp\obj\Debug\net8.0\delegetsp.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\delegetsp\delegetsp\obj\Debug\net8.0\delegetsp.AssemblyInfoInputs.cache
+C:\c#\delegetsp\delegetsp\obj\Debug\net8.0\delegetsp.AssemblyInfo.cs
+C:\c#\delegetsp\delegetsp\obj\Debug\net8.0\delegetsp.csproj.CoreCompileInputs.cache
+C:\c#\delegetsp\delegetsp\obj\Debug\net8.0\delegetsp.dll
+C:\c#\delegetsp\delegetsp\obj\Debug\net8.0\refint\delegetsp.dll
+C:\c#\delegetsp\delegetsp\obj\Debug\net8.0\delegetsp.pdb
+C:\c#\delegetsp\delegetsp\obj\Debug\net8.0\delegetsp.genruntimeconfig.cache
+C:\c#\delegetsp\delegetsp\obj\Debug\net8.0\ref\delegetsp.dll

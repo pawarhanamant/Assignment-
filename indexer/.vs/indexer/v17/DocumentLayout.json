@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c#\\indexer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC99D57-E349-4489-8828-407613120761}|..\\sealed class\\sealed class.csproj|c:\\c#\\sealed class\\hpawar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AC99D57-E349-4489-8828-407613120761}|..\\sealed class\\sealed class.csproj|c:\\c#\\sealed class\\patil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65F4230F-54B2-4582-BF0E-0000B47AD3CE}|..\\partial class\\partial class.csproj|c:\\c#\\partial class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "patil.cs",
+              "DocumentMoniker": "C:\\c#\\sealed class\\patil.cs",
+              "RelativeDocumentMoniker": "..\\sealed class\\patil.cs",
+              "ToolTip": "C:\\c#\\sealed class\\patil.cs",
+              "RelativeToolTip": "..\\sealed class\\patil.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T09:41:59.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "hpawar.cs",
+              "DocumentMoniker": "C:\\c#\\sealed class\\hpawar.cs",
+              "RelativeDocumentMoniker": "..\\sealed class\\hpawar.cs",
+              "ToolTip": "C:\\c#\\sealed class\\hpawar.cs",
+              "RelativeToolTip": "..\\sealed class\\hpawar.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAwwBgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T09:41:42.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c#\\partial class\\Program.cs",
+              "RelativeDocumentMoniker": "..\\partial class\\Program.cs",
+              "ToolTip": "C:\\c#\\partial class\\Program.cs",
+              "RelativeToolTip": "..\\partial class\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T09:39:17.034Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

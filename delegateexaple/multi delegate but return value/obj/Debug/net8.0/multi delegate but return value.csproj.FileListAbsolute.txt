@@ -1,0 +1,14 @@
+C:\c#\delegateexaple\multi delegate but return value\bin\Debug\net8.0\multi delegate but return value.exe
+C:\c#\delegateexaple\multi delegate but return value\bin\Debug\net8.0\multi delegate but return value.deps.json
+C:\c#\delegateexaple\multi delegate but return value\bin\Debug\net8.0\multi delegate but return value.runtimeconfig.json
+C:\c#\delegateexaple\multi delegate but return value\bin\Debug\net8.0\multi delegate but return value.dll
+C:\c#\delegateexaple\multi delegate but return value\bin\Debug\net8.0\multi delegate but return value.pdb
+C:\c#\delegateexaple\multi delegate but return value\obj\Debug\net8.0\multi delegate but return value.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\delegateexaple\multi delegate but return value\obj\Debug\net8.0\multi delegate but return value.AssemblyInfoInputs.cache
+C:\c#\delegateexaple\multi delegate but return value\obj\Debug\net8.0\multi delegate but return value.AssemblyInfo.cs
+C:\c#\delegateexaple\multi delegate but return value\obj\Debug\net8.0\multi delegate but return value.csproj.CoreCompileInputs.cache
+C:\c#\delegateexaple\multi delegate but return value\obj\Debug\net8.0\multi delegate but return value.dll
+C:\c#\delegateexaple\multi delegate but return value\obj\Debug\net8.0\refint\multi delegate but return value.dll
+C:\c#\delegateexaple\multi delegate but return value\obj\Debug\net8.0\multi delegate but return value.pdb
+C:\c#\delegateexaple\multi delegate but return value\obj\Debug\net8.0\multi delegate but return value.genruntimeconfig.cache
+C:\c#\delegateexaple\multi delegate but return value\obj\Debug\net8.0\ref\multi delegate but return value.dll

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c#\\extentionmethod practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA200121-3872-4E01-A7CC-EA44BC7482F9}|multiple extension method with defferanttype paramaters\\multiple extension method with defferanttype paramaters.csproj|c:\\c#\\extentionmethod practice\\multiple extension method with defferanttype paramaters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA200121-3872-4E01-A7CC-EA44BC7482F9}|multiple extension method with defferanttype paramaters\\multiple extension method with defferanttype paramaters.csproj|solutionrelative:multiple extension method with defferanttype paramaters\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA200121-3872-4E01-A7CC-EA44BC7482F9}|multiple extension method with defferanttype paramaters\\multiple extension method with defferanttype paramaters.csproj|c:\\c#\\extentionmethod practice\\multiple extension method with defferanttype paramaters\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA200121-3872-4E01-A7CC-EA44BC7482F9}|multiple extension method with defferanttype paramaters\\multiple extension method with defferanttype paramaters.csproj|solutionrelative:multiple extension method with defferanttype paramaters\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "student.cs",
+              "DocumentMoniker": "C:\\c#\\extentionmethod practice\\multiple extension method with defferanttype paramaters\\student.cs",
+              "RelativeDocumentMoniker": "multiple extension method with defferanttype paramaters\\student.cs",
+              "ToolTip": "C:\\c#\\extentionmethod practice\\multiple extension method with defferanttype paramaters\\student.cs",
+              "RelativeToolTip": "multiple extension method with defferanttype paramaters\\student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T08:25:25.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c#\\extentionmethod practice\\multiple extension method with defferanttype paramaters\\Program.cs",
+              "RelativeDocumentMoniker": "multiple extension method with defferanttype paramaters\\Program.cs",
+              "ToolTip": "C:\\c#\\extentionmethod practice\\multiple extension method with defferanttype paramaters\\Program.cs",
+              "RelativeToolTip": "multiple extension method with defferanttype paramaters\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-23T08:24:09.343Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

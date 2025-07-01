@@ -1,0 +1,7 @@
+C:\c#\array\input array\bin\Debug\input array.exe.config
+C:\c#\array\input array\bin\Debug\input array.exe
+C:\c#\array\input array\bin\Debug\input array.pdb
+C:\c#\array\input array\obj\Debug\input array.csproj.AssemblyReference.cache
+C:\c#\array\input array\obj\Debug\input array.csproj.CoreCompileInputs.cache
+C:\c#\array\input array\obj\Debug\input array.exe
+C:\c#\array\input array\obj\Debug\input array.pdb

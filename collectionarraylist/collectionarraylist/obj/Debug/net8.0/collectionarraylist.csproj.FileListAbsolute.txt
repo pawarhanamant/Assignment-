@@ -1,0 +1,14 @@
+C:\c#\collectionarraylist\collectionarraylist\bin\Debug\net8.0\collectionarraylist.exe
+C:\c#\collectionarraylist\collectionarraylist\bin\Debug\net8.0\collectionarraylist.deps.json
+C:\c#\collectionarraylist\collectionarraylist\bin\Debug\net8.0\collectionarraylist.runtimeconfig.json
+C:\c#\collectionarraylist\collectionarraylist\bin\Debug\net8.0\collectionarraylist.dll
+C:\c#\collectionarraylist\collectionarraylist\bin\Debug\net8.0\collectionarraylist.pdb
+C:\c#\collectionarraylist\collectionarraylist\obj\Debug\net8.0\collectionarraylist.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\collectionarraylist\collectionarraylist\obj\Debug\net8.0\collectionarraylist.AssemblyInfoInputs.cache
+C:\c#\collectionarraylist\collectionarraylist\obj\Debug\net8.0\collectionarraylist.AssemblyInfo.cs
+C:\c#\collectionarraylist\collectionarraylist\obj\Debug\net8.0\collectionarraylist.csproj.CoreCompileInputs.cache
+C:\c#\collectionarraylist\collectionarraylist\obj\Debug\net8.0\collectionarraylist.dll
+C:\c#\collectionarraylist\collectionarraylist\obj\Debug\net8.0\refint\collectionarraylist.dll
+C:\c#\collectionarraylist\collectionarraylist\obj\Debug\net8.0\collectionarraylist.pdb
+C:\c#\collectionarraylist\collectionarraylist\obj\Debug\net8.0\collectionarraylist.genruntimeconfig.cache
+C:\c#\collectionarraylist\collectionarraylist\obj\Debug\net8.0\ref\collectionarraylist.dll

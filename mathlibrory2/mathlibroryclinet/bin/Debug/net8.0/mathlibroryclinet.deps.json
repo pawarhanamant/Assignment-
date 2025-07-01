@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "mathlibroryclinet/1.0.0": {
+        "dependencies": {
+          "mathlibrory2": "1.0.0"
+        },
+        "runtime": {
+          "mathlibroryclinet.dll": {}
+        }
+      },
+      "mathlibrory2/1.0.0": {
+        "runtime": {
+          "mathlibrory2.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mathlibroryclinet/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "mathlibrory2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

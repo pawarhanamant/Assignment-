@@ -1,0 +1,14 @@
+C:\c#\extentionmethod practice\multiple extension method with defferanttype paramaters\bin\Debug\net8.0\multiple extension method with defferanttype paramaters.exe
+C:\c#\extentionmethod practice\multiple extension method with defferanttype paramaters\bin\Debug\net8.0\multiple extension method with defferanttype paramaters.deps.json
+C:\c#\extentionmethod practice\multiple extension method with defferanttype paramaters\bin\Debug\net8.0\multiple extension method with defferanttype paramaters.runtimeconfig.json
+C:\c#\extentionmethod practice\multiple extension method with defferanttype paramaters\bin\Debug\net8.0\multiple extension method with defferanttype paramaters.dll
+C:\c#\extentionmethod practice\multiple extension method with defferanttype paramaters\bin\Debug\net8.0\multiple extension method with defferanttype paramaters.pdb
+C:\c#\extentionmethod practice\multiple extension method with defferanttype paramaters\obj\Debug\net8.0\multiple extension method with defferanttype paramaters.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\extentionmethod practice\multiple extension method with defferanttype paramaters\obj\Debug\net8.0\multiple extension method with defferanttype paramaters.AssemblyInfoInputs.cache
+C:\c#\extentionmethod practice\multiple extension method with defferanttype paramaters\obj\Debug\net8.0\multiple extension method with defferanttype paramaters.AssemblyInfo.cs
+C:\c#\extentionmethod practice\multiple extension method with defferanttype paramaters\obj\Debug\net8.0\multiple extension method with defferanttype paramaters.csproj.CoreCompileInputs.cache
+C:\c#\extentionmethod practice\multiple extension method with defferanttype paramaters\obj\Debug\net8.0\multiple extension method with defferanttype paramaters.dll
+C:\c#\extentionmethod practice\multiple extension method with defferanttype paramaters\obj\Debug\net8.0\refint\multiple extension method with defferanttype paramaters.dll
+C:\c#\extentionmethod practice\multiple extension method with defferanttype paramaters\obj\Debug\net8.0\multiple extension method with defferanttype paramaters.pdb
+C:\c#\extentionmethod practice\multiple extension method with defferanttype paramaters\obj\Debug\net8.0\multiple extension method with defferanttype paramaters.genruntimeconfig.cache
+C:\c#\extentionmethod practice\multiple extension method with defferanttype paramaters\obj\Debug\net8.0\ref\multiple extension method with defferanttype paramaters.dll

@@ -1,0 +1,14 @@
+C:\c#\delegateexaple\multi delegate\bin\Debug\net8.0\multi delegate.exe
+C:\c#\delegateexaple\multi delegate\bin\Debug\net8.0\multi delegate.deps.json
+C:\c#\delegateexaple\multi delegate\bin\Debug\net8.0\multi delegate.runtimeconfig.json
+C:\c#\delegateexaple\multi delegate\bin\Debug\net8.0\multi delegate.dll
+C:\c#\delegateexaple\multi delegate\bin\Debug\net8.0\multi delegate.pdb
+C:\c#\delegateexaple\multi delegate\obj\Debug\net8.0\multi delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\delegateexaple\multi delegate\obj\Debug\net8.0\multi delegate.AssemblyInfoInputs.cache
+C:\c#\delegateexaple\multi delegate\obj\Debug\net8.0\multi delegate.AssemblyInfo.cs
+C:\c#\delegateexaple\multi delegate\obj\Debug\net8.0\multi delegate.csproj.CoreCompileInputs.cache
+C:\c#\delegateexaple\multi delegate\obj\Debug\net8.0\multi delegate.dll
+C:\c#\delegateexaple\multi delegate\obj\Debug\net8.0\refint\multi delegate.dll
+C:\c#\delegateexaple\multi delegate\obj\Debug\net8.0\multi delegate.pdb
+C:\c#\delegateexaple\multi delegate\obj\Debug\net8.0\multi delegate.genruntimeconfig.cache
+C:\c#\delegateexaple\multi delegate\obj\Debug\net8.0\ref\multi delegate.dll

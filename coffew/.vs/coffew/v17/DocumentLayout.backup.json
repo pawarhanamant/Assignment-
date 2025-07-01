@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c#\\coffew\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB048F59-3CED-4A64-A338-A050D6AC774D}|..\\primeor not\\primeor not.csproj|c:\\c#\\primeor not\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B42596BA-2079-4850-981B-4D0BF184646A}|coffew\\coffew.csproj|c:\\c#\\coffew\\coffew\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B42596BA-2079-4850-981B-4D0BF184646A}|coffew\\coffew.csproj|solutionrelative:coffew\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c#\\primeor not\\Program.cs",
+              "RelativeDocumentMoniker": "..\\primeor not\\Program.cs",
+              "ToolTip": "C:\\c#\\primeor not\\Program.cs*",
+              "RelativeToolTip": "..\\primeor not\\Program.cs*",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCcAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T03:23:15.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c#\\coffew\\coffew\\Program.cs",
+              "RelativeDocumentMoniker": "coffew\\Program.cs",
+              "ToolTip": "C:\\c#\\coffew\\coffew\\Program.cs",
+              "RelativeToolTip": "coffew\\Program.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAgwEAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T03:05:53.888Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

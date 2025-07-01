@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c#\\LINQ\\projection operators\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05B983CD-51F5-4A8C-BE46-B2A92E4C1D3D}|projection operators\\projection operators.csproj|c:\\c#\\linq\\projection operators\\projection operators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05B983CD-51F5-4A8C-BE46-B2A92E4C1D3D}|projection operators\\projection operators.csproj|solutionrelative:projection operators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05B983CD-51F5-4A8C-BE46-B2A92E4C1D3D}|projection operators\\projection operators.csproj|c:\\c#\\linq\\projection operators\\projection operators\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05B983CD-51F5-4A8C-BE46-B2A92E4C1D3D}|projection operators\\projection operators.csproj|solutionrelative:projection operators\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "student.cs",
+              "DocumentMoniker": "C:\\c#\\LINQ\\projection operators\\projection operators\\student.cs",
+              "RelativeDocumentMoniker": "projection operators\\student.cs",
+              "ToolTip": "C:\\c#\\LINQ\\projection operators\\projection operators\\student.cs",
+              "RelativeToolTip": "projection operators\\student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T06:07:11.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c#\\LINQ\\projection operators\\projection operators\\Program.cs",
+              "RelativeDocumentMoniker": "projection operators\\Program.cs",
+              "ToolTip": "C:\\c#\\LINQ\\projection operators\\projection operators\\Program.cs",
+              "RelativeToolTip": "projection operators\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABYAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T12:57:55.922Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

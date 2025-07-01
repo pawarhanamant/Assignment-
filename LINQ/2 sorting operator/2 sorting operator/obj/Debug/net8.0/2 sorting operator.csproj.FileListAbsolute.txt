@@ -1,0 +1,14 @@
+C:\c#\LINQ\2 sorting operator\2 sorting operator\bin\Debug\net8.0\2 sorting operator.exe
+C:\c#\LINQ\2 sorting operator\2 sorting operator\bin\Debug\net8.0\2 sorting operator.deps.json
+C:\c#\LINQ\2 sorting operator\2 sorting operator\bin\Debug\net8.0\2 sorting operator.runtimeconfig.json
+C:\c#\LINQ\2 sorting operator\2 sorting operator\bin\Debug\net8.0\2 sorting operator.dll
+C:\c#\LINQ\2 sorting operator\2 sorting operator\bin\Debug\net8.0\2 sorting operator.pdb
+C:\c#\LINQ\2 sorting operator\2 sorting operator\obj\Debug\net8.0\2 sorting operator.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\LINQ\2 sorting operator\2 sorting operator\obj\Debug\net8.0\2 sorting operator.AssemblyInfoInputs.cache
+C:\c#\LINQ\2 sorting operator\2 sorting operator\obj\Debug\net8.0\2 sorting operator.AssemblyInfo.cs
+C:\c#\LINQ\2 sorting operator\2 sorting operator\obj\Debug\net8.0\2 sorting operator.csproj.CoreCompileInputs.cache
+C:\c#\LINQ\2 sorting operator\2 sorting operator\obj\Debug\net8.0\2 sorting operator.dll
+C:\c#\LINQ\2 sorting operator\2 sorting operator\obj\Debug\net8.0\refint\2 sorting operator.dll
+C:\c#\LINQ\2 sorting operator\2 sorting operator\obj\Debug\net8.0\2 sorting operator.pdb
+C:\c#\LINQ\2 sorting operator\2 sorting operator\obj\Debug\net8.0\2 sorting operator.genruntimeconfig.cache
+C:\c#\LINQ\2 sorting operator\2 sorting operator\obj\Debug\net8.0\ref\2 sorting operator.dll

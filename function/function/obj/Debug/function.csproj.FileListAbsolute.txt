@@ -1,0 +1,7 @@
+C:\c#\function\function\obj\Debug\function.csproj.AssemblyReference.cache
+C:\c#\function\function\obj\Debug\function.csproj.CoreCompileInputs.cache
+C:\c#\function\function\bin\Debug\function.exe.config
+C:\c#\function\function\bin\Debug\function.exe
+C:\c#\function\function\bin\Debug\function.pdb
+C:\c#\function\function\obj\Debug\function.exe
+C:\c#\function\function\obj\Debug\function.pdb

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c#\\methodhidingexample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C80C11-3E5E-4FF3-935F-5E3F8D762632}|methodhidingexample\\methodhidingexample.csproj|c:\\c#\\methodhidingexample\\methodhidingexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C80C11-3E5E-4FF3-935F-5E3F8D762632}|methodhidingexample\\methodhidingexample.csproj|solutionrelative:methodhidingexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9C80C11-3E5E-4FF3-935F-5E3F8D762632}|methodhidingexample\\methodhidingexample.csproj|c:\\c#\\methodhidingexample\\methodhidingexample\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9C80C11-3E5E-4FF3-935F-5E3F8D762632}|methodhidingexample\\methodhidingexample.csproj|solutionrelative:methodhidingexample\\demo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "demo.cs",
+              "DocumentMoniker": "C:\\c#\\methodhidingexample\\methodhidingexample\\demo.cs",
+              "RelativeDocumentMoniker": "methodhidingexample\\demo.cs",
+              "ToolTip": "C:\\c#\\methodhidingexample\\methodhidingexample\\demo.cs",
+              "RelativeToolTip": "methodhidingexample\\demo.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAA0wBQAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T07:53:19.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c#\\methodhidingexample\\methodhidingexample\\Program.cs",
+              "RelativeDocumentMoniker": "methodhidingexample\\Program.cs",
+              "ToolTip": "C:\\c#\\methodhidingexample\\methodhidingexample\\Program.cs*",
+              "RelativeToolTip": "methodhidingexample\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T07:52:17.637Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

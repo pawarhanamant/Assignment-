@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c#\\inheritance\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{40EEC43A-161D-434A-A29E-AB1A03A04671}|..\\Hierarchical Inheritance\\Hierarchical Inheritance.csproj|c:\\c#\\hierarchical inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B92A2F5-07A5-4249-B146-4C145748DF9D}|..\\multilevelinhertnace\\multilevelinhertnace.csproj|c:\\c#\\multilevelinhertnace\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81CFB8C6-A5B6-428C-81EE-D963ED125AAD}|..\\singleinhertance\\singleinhertance.csproj|c:\\c#\\singleinhertance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4BCE7D-B662-4B77-95EA-86C8E1173D12}|inheritance\\inheritance.csproj|c:\\c#\\inheritance\\inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C4BCE7D-B662-4B77-95EA-86C8E1173D12}|inheritance\\inheritance.csproj|solutionrelative:inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c#\\Hierarchical Inheritance\\Program.cs",
+              "RelativeDocumentMoniker": "..\\Hierarchical Inheritance\\Program.cs",
+              "ToolTip": "C:\\c#\\Hierarchical Inheritance\\Program.cs",
+              "RelativeToolTip": "..\\Hierarchical Inheritance\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowDEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T11:30:41.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c#\\multilevelinhertnace\\Program.cs",
+              "RelativeDocumentMoniker": "..\\multilevelinhertnace\\Program.cs",
+              "ToolTip": "C:\\c#\\multilevelinhertnace\\Program.cs",
+              "RelativeToolTip": "..\\multilevelinhertnace\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwDEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T11:15:24.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c#\\singleinhertance\\Program.cs",
+              "RelativeDocumentMoniker": "..\\singleinhertance\\Program.cs",
+              "ToolTip": "C:\\c#\\singleinhertance\\Program.cs",
+              "RelativeToolTip": "..\\singleinhertance\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T11:02:39.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c#\\inheritance\\inheritance\\Program.cs",
+              "RelativeDocumentMoniker": "inheritance\\Program.cs",
+              "ToolTip": "C:\\c#\\inheritance\\inheritance\\Program.cs",
+              "RelativeToolTip": "inheritance\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T10:40:13.127Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

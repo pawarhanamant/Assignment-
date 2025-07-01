@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c#\\coffee shop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BBFF1E1-BADC-479F-9368-0068630DBAC9}|coffee shop\\coffee shop.csproj|c:\\c#\\coffee shop\\coffee shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BBFF1E1-BADC-479F-9368-0068630DBAC9}|coffee shop\\coffee shop.csproj|solutionrelative:coffee shop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c#\\coffee shop\\coffee shop\\Program.cs",
+              "RelativeDocumentMoniker": "coffee shop\\Program.cs",
+              "ToolTip": "C:\\c#\\coffee shop\\coffee shop\\Program.cs*",
+              "RelativeToolTip": "coffee shop\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T02:41:37.162Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

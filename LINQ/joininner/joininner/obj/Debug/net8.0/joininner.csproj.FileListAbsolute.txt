@@ -1,0 +1,14 @@
+C:\c#\LINQ\joininner\joininner\bin\Debug\net8.0\joininner.exe
+C:\c#\LINQ\joininner\joininner\bin\Debug\net8.0\joininner.deps.json
+C:\c#\LINQ\joininner\joininner\bin\Debug\net8.0\joininner.runtimeconfig.json
+C:\c#\LINQ\joininner\joininner\bin\Debug\net8.0\joininner.dll
+C:\c#\LINQ\joininner\joininner\bin\Debug\net8.0\joininner.pdb
+C:\c#\LINQ\joininner\joininner\obj\Debug\net8.0\joininner.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\LINQ\joininner\joininner\obj\Debug\net8.0\joininner.AssemblyInfoInputs.cache
+C:\c#\LINQ\joininner\joininner\obj\Debug\net8.0\joininner.AssemblyInfo.cs
+C:\c#\LINQ\joininner\joininner\obj\Debug\net8.0\joininner.csproj.CoreCompileInputs.cache
+C:\c#\LINQ\joininner\joininner\obj\Debug\net8.0\joininner.dll
+C:\c#\LINQ\joininner\joininner\obj\Debug\net8.0\refint\joininner.dll
+C:\c#\LINQ\joininner\joininner\obj\Debug\net8.0\joininner.pdb
+C:\c#\LINQ\joininner\joininner\obj\Debug\net8.0\joininner.genruntimeconfig.cache
+C:\c#\LINQ\joininner\joininner\obj\Debug\net8.0\ref\joininner.dll

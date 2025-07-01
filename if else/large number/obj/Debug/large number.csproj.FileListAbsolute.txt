@@ -1,0 +1,7 @@
+C:\c#\if else\large number\bin\Debug\large number.exe.config
+C:\c#\if else\large number\bin\Debug\large number.exe
+C:\c#\if else\large number\bin\Debug\large number.pdb
+C:\c#\if else\large number\obj\Debug\large number.csproj.AssemblyReference.cache
+C:\c#\if else\large number\obj\Debug\large number.csproj.CoreCompileInputs.cache
+C:\c#\if else\large number\obj\Debug\large number.exe
+C:\c#\if else\large number\obj\Debug\large number.pdb

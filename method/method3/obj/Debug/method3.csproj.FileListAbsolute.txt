@@ -1,0 +1,7 @@
+C:\c#\method\method3\bin\Debug\method3.exe.config
+C:\c#\method\method3\bin\Debug\method3.exe
+C:\c#\method\method3\bin\Debug\method3.pdb
+C:\c#\method\method3\obj\Debug\method3.csproj.AssemblyReference.cache
+C:\c#\method\method3\obj\Debug\method3.csproj.CoreCompileInputs.cache
+C:\c#\method\method3\obj\Debug\method3.exe
+C:\c#\method\method3\obj\Debug\method3.pdb

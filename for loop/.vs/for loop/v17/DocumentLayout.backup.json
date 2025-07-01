@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c#\\for loop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B769ED18-2F3E-485A-ADF1-390BF97D4F74}|..\\switch\\switch.csproj|c:\\c#\\switch\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BAFE02B-1DFF-4451-80E0-BD2E8BC8904B}|..\\while loop\\while loop.csproj|c:\\c#\\while loop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF73ED89-C85E-40DC-B267-FC7C51009697}|do while loop\\do while loop.csproj|c:\\c#\\for loop\\do while loop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF73ED89-C85E-40DC-B267-FC7C51009697}|do while loop\\do while loop.csproj|solutionrelative:do while loop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BF0A9648-052D-46C7-B0E0-E705D83467AF}|for loop\\for loop.csproj|c:\\c#\\for loop\\for loop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BF0A9648-052D-46C7-B0E0-E705D83467AF}|for loop\\for loop.csproj|solutionrelative:for loop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c#\\switch\\Program.cs",
+              "RelativeDocumentMoniker": "..\\switch\\Program.cs",
+              "ToolTip": "C:\\c#\\switch\\Program.cs",
+              "RelativeToolTip": "..\\switch\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwBAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T07:02:31.838Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c#\\while loop\\Program.cs",
+              "RelativeDocumentMoniker": "..\\while loop\\Program.cs",
+              "ToolTip": "C:\\c#\\while loop\\Program.cs",
+              "RelativeToolTip": "..\\while loop\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T07:00:24.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c#\\for loop\\do while loop\\Program.cs",
+              "RelativeDocumentMoniker": "do while loop\\Program.cs",
+              "ToolTip": "C:\\c#\\for loop\\do while loop\\Program.cs",
+              "RelativeToolTip": "do while loop\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T06:57:37.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c#\\for loop\\for loop\\Program.cs",
+              "RelativeDocumentMoniker": "for loop\\Program.cs",
+              "ToolTip": "C:\\c#\\for loop\\for loop\\Program.cs",
+              "RelativeToolTip": "for loop\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T06:50:05.319Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "method", "method\method.csproj", "{75257616-F9F5-4F07-B615-C8A26B31131F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "method2", "method2\method2.csproj", "{975BC607-4604-4648-9D7A-CCBD313EA102}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "method3", "method3\method3.csproj", "{B27F3444-90BE-457F-AFFE-EF7983818155}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75257616-F9F5-4F07-B615-C8A26B31131F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75257616-F9F5-4F07-B615-C8A26B31131F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75257616-F9F5-4F07-B615-C8A26B31131F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75257616-F9F5-4F07-B615-C8A26B31131F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{975BC607-4604-4648-9D7A-CCBD313EA102}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{975BC607-4604-4648-9D7A-CCBD313EA102}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{975BC607-4604-4648-9D7A-CCBD313EA102}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{975BC607-4604-4648-9D7A-CCBD313EA102}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B27F3444-90BE-457F-AFFE-EF7983818155}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B27F3444-90BE-457F-AFFE-EF7983818155}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B27F3444-90BE-457F-AFFE-EF7983818155}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B27F3444-90BE-457F-AFFE-EF7983818155}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE4924C6-91EA-4A1A-B79E-36EE803734F5}
+	EndGlobalSection
+EndGlobal

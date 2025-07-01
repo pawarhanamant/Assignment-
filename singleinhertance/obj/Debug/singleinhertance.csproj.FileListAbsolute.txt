@@ -1,0 +1,7 @@
+C:\c#\singleinhertance\bin\Debug\singleinhertance.exe.config
+C:\c#\singleinhertance\bin\Debug\singleinhertance.exe
+C:\c#\singleinhertance\bin\Debug\singleinhertance.pdb
+C:\c#\singleinhertance\obj\Debug\singleinhertance.csproj.AssemblyReference.cache
+C:\c#\singleinhertance\obj\Debug\singleinhertance.csproj.CoreCompileInputs.cache
+C:\c#\singleinhertance\obj\Debug\singleinhertance.exe
+C:\c#\singleinhertance\obj\Debug\singleinhertance.pdb

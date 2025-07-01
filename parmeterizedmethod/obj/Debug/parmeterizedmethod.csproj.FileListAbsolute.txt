@@ -1,0 +1,7 @@
+C:\c#\parmeterizedmethod\bin\Debug\parmeterizedmethod.exe.config
+C:\c#\parmeterizedmethod\bin\Debug\parmeterizedmethod.exe
+C:\c#\parmeterizedmethod\bin\Debug\parmeterizedmethod.pdb
+C:\c#\parmeterizedmethod\obj\Debug\parmeterizedmethod.csproj.AssemblyReference.cache
+C:\c#\parmeterizedmethod\obj\Debug\parmeterizedmethod.csproj.CoreCompileInputs.cache
+C:\c#\parmeterizedmethod\obj\Debug\parmeterizedmethod.exe
+C:\c#\parmeterizedmethod\obj\Debug\parmeterizedmethod.pdb

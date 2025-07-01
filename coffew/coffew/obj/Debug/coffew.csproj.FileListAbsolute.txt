@@ -1,0 +1,7 @@
+C:\c#\coffew\coffew\bin\Debug\coffew.exe.config
+C:\c#\coffew\coffew\bin\Debug\coffew.exe
+C:\c#\coffew\coffew\bin\Debug\coffew.pdb
+C:\c#\coffew\coffew\obj\Debug\coffew.csproj.AssemblyReference.cache
+C:\c#\coffew\coffew\obj\Debug\coffew.csproj.CoreCompileInputs.cache
+C:\c#\coffew\coffew\obj\Debug\coffew.exe
+C:\c#\coffew\coffew\obj\Debug\coffew.pdb

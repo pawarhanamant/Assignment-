@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c#\\var\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3730340A-5AC7-4E8B-8C3B-09C8EDFB3F9F}|var\\var.csproj|c:\\c#\\var\\var\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3730340A-5AC7-4E8B-8C3B-09C8EDFB3F9F}|var\\var.csproj|solutionrelative:var\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c#\\var\\var\\Program.cs",
+              "RelativeDocumentMoniker": "var\\Program.cs",
+              "ToolTip": "C:\\c#\\var\\var\\Program.cs",
+              "RelativeToolTip": "var\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T13:03:01.063Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c#\\Generic\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BF74B4-71D2-473F-ABE1-35BDBB13885C}|..\\generimethod\\generimethod.csproj|c:\\c#\\generimethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5BF74B4-71D2-473F-ABE1-35BDBB13885C}|..\\generimethod\\generimethod.csproj|c:\\c#\\generimethod\\genericclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "genericclass.cs",
+              "DocumentMoniker": "C:\\c#\\generimethod\\genericclass.cs",
+              "RelativeDocumentMoniker": "..\\generimethod\\genericclass.cs",
+              "ToolTip": "C:\\c#\\generimethod\\genericclass.cs",
+              "RelativeToolTip": "..\\generimethod\\genericclass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T09:01:58.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c#\\generimethod\\Program.cs",
+              "RelativeDocumentMoniker": "..\\generimethod\\Program.cs",
+              "ToolTip": "C:\\c#\\generimethod\\Program.cs",
+              "RelativeToolTip": "..\\generimethod\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T09:00:20.756Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

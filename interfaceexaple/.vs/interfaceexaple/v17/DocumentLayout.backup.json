@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c#\\interfaceexaple\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5C61CF0A-10D3-408B-95D7-A902A336D326}|..\\multipleinterface\\multipleinterface.csproj|c:\\c#\\multipleinterface\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C61CF0A-10D3-408B-95D7-A902A336D326}|..\\multipleinterface\\multipleinterface.csproj|c:\\c#\\multipleinterface\\interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Interface1.cs",
+              "DocumentMoniker": "C:\\c#\\multipleinterface\\Interface1.cs",
+              "RelativeDocumentMoniker": "..\\multipleinterface\\Interface1.cs",
+              "ToolTip": "C:\\c#\\multipleinterface\\Interface1.cs*",
+              "RelativeToolTip": "..\\multipleinterface\\Interface1.cs*",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwBcAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T07:16:58.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c#\\multipleinterface\\Program.cs",
+              "RelativeDocumentMoniker": "..\\multipleinterface\\Program.cs",
+              "ToolTip": "C:\\c#\\multipleinterface\\Program.cs*",
+              "RelativeToolTip": "..\\multipleinterface\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T07:16:08.363Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

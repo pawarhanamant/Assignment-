@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c#\\generic collection\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18E8C49B-6C1C-488D-BB5E-1A77CBBA1925}|..\\dictionary\\dictionary.csproj|c:\\c#\\dictionary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D4DC7ED-0444-4958-8157-E3924618AF42}|generic collection\\generic collection.csproj|c:\\c#\\generic collection\\generic collection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D4DC7ED-0444-4958-8157-E3924618AF42}|generic collection\\generic collection.csproj|solutionrelative:generic collection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c#\\dictionary\\Program.cs",
+              "RelativeDocumentMoniker": "..\\dictionary\\Program.cs",
+              "ToolTip": "C:\\c#\\dictionary\\Program.cs",
+              "RelativeToolTip": "..\\dictionary\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T06:41:06.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c#\\generic collection\\generic collection\\Program.cs",
+              "RelativeDocumentMoniker": "generic collection\\Program.cs",
+              "ToolTip": "C:\\c#\\generic collection\\generic collection\\Program.cs",
+              "RelativeToolTip": "generic collection\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-18T06:25:42.054Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

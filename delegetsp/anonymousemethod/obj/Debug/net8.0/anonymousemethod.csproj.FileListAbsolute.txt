@@ -1,0 +1,14 @@
+C:\c#\delegetsp\anonymousemethod\bin\Debug\net8.0\anonymousemethod.exe
+C:\c#\delegetsp\anonymousemethod\bin\Debug\net8.0\anonymousemethod.deps.json
+C:\c#\delegetsp\anonymousemethod\bin\Debug\net8.0\anonymousemethod.runtimeconfig.json
+C:\c#\delegetsp\anonymousemethod\bin\Debug\net8.0\anonymousemethod.dll
+C:\c#\delegetsp\anonymousemethod\bin\Debug\net8.0\anonymousemethod.pdb
+C:\c#\delegetsp\anonymousemethod\obj\Debug\net8.0\anonymousemethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\delegetsp\anonymousemethod\obj\Debug\net8.0\anonymousemethod.AssemblyInfoInputs.cache
+C:\c#\delegetsp\anonymousemethod\obj\Debug\net8.0\anonymousemethod.AssemblyInfo.cs
+C:\c#\delegetsp\anonymousemethod\obj\Debug\net8.0\anonymousemethod.csproj.CoreCompileInputs.cache
+C:\c#\delegetsp\anonymousemethod\obj\Debug\net8.0\anonymousemethod.dll
+C:\c#\delegetsp\anonymousemethod\obj\Debug\net8.0\refint\anonymousemethod.dll
+C:\c#\delegetsp\anonymousemethod\obj\Debug\net8.0\anonymousemethod.pdb
+C:\c#\delegetsp\anonymousemethod\obj\Debug\net8.0\anonymousemethod.genruntimeconfig.cache
+C:\c#\delegetsp\anonymousemethod\obj\Debug\net8.0\ref\anonymousemethod.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c#\\LINQ\\elements operators\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF17A2F2-57F6-421C-9C53-194E3B4AAFA7}|elements operators\\elements operators.csproj|c:\\c#\\linq\\elements operators\\elements operators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF17A2F2-57F6-421C-9C53-194E3B4AAFA7}|elements operators\\elements operators.csproj|solutionrelative:elements operators\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c#\\LINQ\\elements operators\\elements operators\\Program.cs",
+              "RelativeDocumentMoniker": "elements operators\\Program.cs",
+              "ToolTip": "C:\\c#\\LINQ\\elements operators\\elements operators\\Program.cs",
+              "RelativeToolTip": "elements operators\\Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T10:44:51.363Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

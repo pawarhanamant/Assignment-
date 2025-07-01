@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c#\\staticmethod\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC0D7D9-4F21-4745-A4BE-F3AD1E59DE94}|..\\staticconstructorexample\\staticconstructorexample.csproj|c:\\c#\\staticconstructorexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8374CB-3695-4B28-AAF7-BFFB338C2A79}|staticmethod\\staticmethod.csproj|c:\\c#\\staticmethod\\staticmethod\\stsicmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8374CB-3695-4B28-AAF7-BFFB338C2A79}|staticmethod\\staticmethod.csproj|solutionrelative:staticmethod\\stsicmethod.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0B8374CB-3695-4B28-AAF7-BFFB338C2A79}|staticmethod\\staticmethod.csproj|c:\\c#\\staticmethod\\staticmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0B8374CB-3695-4B28-AAF7-BFFB338C2A79}|staticmethod\\staticmethod.csproj|solutionrelative:staticmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFC0D7D9-4F21-4745-A4BE-F3AD1E59DE94}|..\\staticconstructorexample\\staticconstructorexample.csproj|c:\\c#\\staticconstructorexample\\stasticconstructor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c#\\staticmethod\\staticmethod\\Program.cs",
+              "RelativeDocumentMoniker": "staticmethod\\Program.cs",
+              "ToolTip": "C:\\c#\\staticmethod\\staticmethod\\Program.cs",
+              "RelativeToolTip": "staticmethod\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T17:35:50.022Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "stsicmethod.cs",
+              "DocumentMoniker": "C:\\c#\\staticmethod\\staticmethod\\stsicmethod.cs",
+              "RelativeDocumentMoniker": "staticmethod\\stsicmethod.cs",
+              "ToolTip": "C:\\c#\\staticmethod\\staticmethod\\stsicmethod.cs",
+              "RelativeToolTip": "staticmethod\\stsicmethod.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T17:34:46.465Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "stasticconstructor.cs",
+              "DocumentMoniker": "C:\\c#\\staticconstructorexample\\stasticconstructor.cs",
+              "RelativeDocumentMoniker": "..\\staticconstructorexample\\stasticconstructor.cs",
+              "ToolTip": "C:\\c#\\staticconstructorexample\\stasticconstructor.cs",
+              "RelativeToolTip": "..\\staticconstructorexample\\stasticconstructor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T17:15:55.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c#\\staticconstructorexample\\Program.cs",
+              "RelativeDocumentMoniker": "..\\staticconstructorexample\\Program.cs",
+              "ToolTip": "C:\\c#\\staticconstructorexample\\Program.cs",
+              "RelativeToolTip": "..\\staticconstructorexample\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-19T17:13:02.31Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

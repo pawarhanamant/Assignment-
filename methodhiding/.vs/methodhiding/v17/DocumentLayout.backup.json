@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c#\\methodhiding\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67ED9BBE-DDAE-4B2A-8E11-4BA2E7DE6977}|methodhiding\\methodhiding.csproj|c:\\c#\\methodhiding\\methodhiding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67ED9BBE-DDAE-4B2A-8E11-4BA2E7DE6977}|methodhiding\\methodhiding.csproj|solutionrelative:methodhiding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67ED9BBE-DDAE-4B2A-8E11-4BA2E7DE6977}|methodhiding\\methodhiding.csproj|c:\\c#\\methodhiding\\methodhiding\\parttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67ED9BBE-DDAE-4B2A-8E11-4BA2E7DE6977}|methodhiding\\methodhiding.csproj|solutionrelative:methodhiding\\parttype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67ED9BBE-DDAE-4B2A-8E11-4BA2E7DE6977}|methodhiding\\methodhiding.csproj|c:\\c#\\methodhiding\\methodhiding\\fulltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67ED9BBE-DDAE-4B2A-8E11-4BA2E7DE6977}|methodhiding\\methodhiding.csproj|solutionrelative:methodhiding\\fulltype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{67ED9BBE-DDAE-4B2A-8E11-4BA2E7DE6977}|methodhiding\\methodhiding.csproj|c:\\c#\\methodhiding\\methodhiding\\empoloye.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67ED9BBE-DDAE-4B2A-8E11-4BA2E7DE6977}|methodhiding\\methodhiding.csproj|solutionrelative:methodhiding\\empoloye.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "parttype.cs",
+              "DocumentMoniker": "C:\\c#\\methodhiding\\methodhiding\\parttype.cs",
+              "RelativeDocumentMoniker": "methodhiding\\parttype.cs",
+              "ToolTip": "C:\\c#\\methodhiding\\methodhiding\\parttype.cs",
+              "RelativeToolTip": "methodhiding\\parttype.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T09:25:59.009Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "fulltype.cs",
+              "DocumentMoniker": "C:\\c#\\methodhiding\\methodhiding\\fulltype.cs",
+              "RelativeDocumentMoniker": "methodhiding\\fulltype.cs",
+              "ToolTip": "C:\\c#\\methodhiding\\methodhiding\\fulltype.cs",
+              "RelativeToolTip": "methodhiding\\fulltype.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T09:24:21.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "empoloye.cs",
+              "DocumentMoniker": "C:\\c#\\methodhiding\\methodhiding\\empoloye.cs",
+              "RelativeDocumentMoniker": "methodhiding\\empoloye.cs",
+              "ToolTip": "C:\\c#\\methodhiding\\methodhiding\\empoloye.cs",
+              "RelativeToolTip": "methodhiding\\empoloye.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T09:20:37.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c#\\methodhiding\\methodhiding\\Program.cs",
+              "RelativeDocumentMoniker": "methodhiding\\Program.cs",
+              "ToolTip": "C:\\c#\\methodhiding\\methodhiding\\Program.cs*",
+              "RelativeToolTip": "methodhiding\\Program.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAiwA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T09:19:46.655Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

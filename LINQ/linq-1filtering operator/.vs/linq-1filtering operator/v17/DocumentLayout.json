@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c#\\LINQ\\linq-1filtering operator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4579EF5B-578B-432C-994C-7A659EE6F4DB}|linq-1filtering operator\\linq-1filtering operator.csproj|c:\\c#\\linq\\linq-1filtering operator\\linq-1filtering operator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4579EF5B-578B-432C-994C-7A659EE6F4DB}|linq-1filtering operator\\linq-1filtering operator.csproj|solutionrelative:linq-1filtering operator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4579EF5B-578B-432C-994C-7A659EE6F4DB}|linq-1filtering operator\\linq-1filtering operator.csproj|c:\\c#\\linq\\linq-1filtering operator\\linq-1filtering operator\\where.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4579EF5B-578B-432C-994C-7A659EE6F4DB}|linq-1filtering operator\\linq-1filtering operator.csproj|solutionrelative:linq-1filtering operator\\where.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "where.cs",
+              "DocumentMoniker": "C:\\c#\\LINQ\\linq-1filtering operator\\linq-1filtering operator\\where.cs",
+              "RelativeDocumentMoniker": "linq-1filtering operator\\where.cs",
+              "ToolTip": "C:\\c#\\LINQ\\linq-1filtering operator\\linq-1filtering operator\\where.cs",
+              "RelativeToolTip": "linq-1filtering operator\\where.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T09:13:01.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c#\\LINQ\\linq-1filtering operator\\linq-1filtering operator\\Program.cs",
+              "RelativeDocumentMoniker": "linq-1filtering operator\\Program.cs",
+              "ToolTip": "C:\\c#\\LINQ\\linq-1filtering operator\\linq-1filtering operator\\Program.cs",
+              "RelativeToolTip": "linq-1filtering operator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-25T09:11:48.658Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

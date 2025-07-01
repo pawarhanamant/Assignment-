@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c#\\ClassLibrary1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C618FEAD-7D1F-44DA-ADAC-1C45B5B86CD3}|ClassLibrary1\\ClassLibrary1.csproj|c:\\c#\\classlibrary1\\classlibrary1\\caculater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C618FEAD-7D1F-44DA-ADAC-1C45B5B86CD3}|ClassLibrary1\\ClassLibrary1.csproj|solutionrelative:classlibrary1\\caculater.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{384A06D0-5BD0-479B-B8C4-9DD35B80FE9D}|..\\clinetofmathlibary\\clinetofmathlibary.csproj|c:\\c#\\clinetofmathlibary\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c#\\clinetofmathlibary\\Program.cs",
+              "RelativeDocumentMoniker": "..\\clinetofmathlibary\\Program.cs",
+              "ToolTip": "C:\\c#\\clinetofmathlibary\\Program.cs",
+              "RelativeToolTip": "..\\clinetofmathlibary\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T07:27:59.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Caculater.cs",
+              "DocumentMoniker": "C:\\c#\\ClassLibrary1\\ClassLibrary1\\Caculater.cs",
+              "RelativeDocumentMoniker": "ClassLibrary1\\Caculater.cs",
+              "ToolTip": "C:\\c#\\ClassLibrary1\\ClassLibrary1\\Caculater.cs",
+              "RelativeToolTip": "ClassLibrary1\\Caculater.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T07:23:32.226Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

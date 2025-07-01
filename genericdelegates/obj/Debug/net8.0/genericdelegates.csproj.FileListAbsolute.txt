@@ -1,0 +1,14 @@
+C:\c#\genericdelegates\bin\Debug\net8.0\genericdelegates.exe
+C:\c#\genericdelegates\bin\Debug\net8.0\genericdelegates.deps.json
+C:\c#\genericdelegates\bin\Debug\net8.0\genericdelegates.runtimeconfig.json
+C:\c#\genericdelegates\bin\Debug\net8.0\genericdelegates.dll
+C:\c#\genericdelegates\bin\Debug\net8.0\genericdelegates.pdb
+C:\c#\genericdelegates\obj\Debug\net8.0\genericdelegates.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\genericdelegates\obj\Debug\net8.0\genericdelegates.AssemblyInfoInputs.cache
+C:\c#\genericdelegates\obj\Debug\net8.0\genericdelegates.AssemblyInfo.cs
+C:\c#\genericdelegates\obj\Debug\net8.0\genericdelegates.csproj.CoreCompileInputs.cache
+C:\c#\genericdelegates\obj\Debug\net8.0\genericdelegates.dll
+C:\c#\genericdelegates\obj\Debug\net8.0\refint\genericdelegates.dll
+C:\c#\genericdelegates\obj\Debug\net8.0\genericdelegates.pdb
+C:\c#\genericdelegates\obj\Debug\net8.0\genericdelegates.genruntimeconfig.cache
+C:\c#\genericdelegates\obj\Debug\net8.0\ref\genericdelegates.dll

@@ -1,0 +1,14 @@
+C:\c#\constructorinhertance\constructorinhertance\bin\Debug\net8.0\constructorinhertance.exe
+C:\c#\constructorinhertance\constructorinhertance\bin\Debug\net8.0\constructorinhertance.deps.json
+C:\c#\constructorinhertance\constructorinhertance\bin\Debug\net8.0\constructorinhertance.runtimeconfig.json
+C:\c#\constructorinhertance\constructorinhertance\bin\Debug\net8.0\constructorinhertance.dll
+C:\c#\constructorinhertance\constructorinhertance\bin\Debug\net8.0\constructorinhertance.pdb
+C:\c#\constructorinhertance\constructorinhertance\obj\Debug\net8.0\constructorinhertance.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\constructorinhertance\constructorinhertance\obj\Debug\net8.0\constructorinhertance.AssemblyInfoInputs.cache
+C:\c#\constructorinhertance\constructorinhertance\obj\Debug\net8.0\constructorinhertance.AssemblyInfo.cs
+C:\c#\constructorinhertance\constructorinhertance\obj\Debug\net8.0\constructorinhertance.csproj.CoreCompileInputs.cache
+C:\c#\constructorinhertance\constructorinhertance\obj\Debug\net8.0\constructorinhertance.dll
+C:\c#\constructorinhertance\constructorinhertance\obj\Debug\net8.0\refint\constructorinhertance.dll
+C:\c#\constructorinhertance\constructorinhertance\obj\Debug\net8.0\constructorinhertance.pdb
+C:\c#\constructorinhertance\constructorinhertance\obj\Debug\net8.0\constructorinhertance.genruntimeconfig.cache
+C:\c#\constructorinhertance\constructorinhertance\obj\Debug\net8.0\ref\constructorinhertance.dll

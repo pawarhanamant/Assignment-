@@ -1,0 +1,14 @@
+C:\c#\delegetsp\lambdaexpression\bin\Debug\net8.0\lambdaexpression.exe
+C:\c#\delegetsp\lambdaexpression\bin\Debug\net8.0\lambdaexpression.deps.json
+C:\c#\delegetsp\lambdaexpression\bin\Debug\net8.0\lambdaexpression.runtimeconfig.json
+C:\c#\delegetsp\lambdaexpression\bin\Debug\net8.0\lambdaexpression.dll
+C:\c#\delegetsp\lambdaexpression\bin\Debug\net8.0\lambdaexpression.pdb
+C:\c#\delegetsp\lambdaexpression\obj\Debug\net8.0\lambdaexpression.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\delegetsp\lambdaexpression\obj\Debug\net8.0\lambdaexpression.AssemblyInfoInputs.cache
+C:\c#\delegetsp\lambdaexpression\obj\Debug\net8.0\lambdaexpression.AssemblyInfo.cs
+C:\c#\delegetsp\lambdaexpression\obj\Debug\net8.0\lambdaexpression.csproj.CoreCompileInputs.cache
+C:\c#\delegetsp\lambdaexpression\obj\Debug\net8.0\lambdaexpression.dll
+C:\c#\delegetsp\lambdaexpression\obj\Debug\net8.0\refint\lambdaexpression.dll
+C:\c#\delegetsp\lambdaexpression\obj\Debug\net8.0\lambdaexpression.pdb
+C:\c#\delegetsp\lambdaexpression\obj\Debug\net8.0\lambdaexpression.genruntimeconfig.cache
+C:\c#\delegetsp\lambdaexpression\obj\Debug\net8.0\ref\lambdaexpression.dll

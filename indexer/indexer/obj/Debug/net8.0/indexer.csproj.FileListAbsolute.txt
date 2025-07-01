@@ -1,0 +1,14 @@
+C:\c#\indexer\indexer\obj\Debug\net8.0\indexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\indexer\indexer\obj\Debug\net8.0\indexer.AssemblyInfoInputs.cache
+C:\c#\indexer\indexer\obj\Debug\net8.0\indexer.AssemblyInfo.cs
+C:\c#\indexer\indexer\obj\Debug\net8.0\indexer.csproj.CoreCompileInputs.cache
+C:\c#\indexer\indexer\bin\Debug\net8.0\indexer.exe
+C:\c#\indexer\indexer\bin\Debug\net8.0\indexer.deps.json
+C:\c#\indexer\indexer\bin\Debug\net8.0\indexer.runtimeconfig.json
+C:\c#\indexer\indexer\bin\Debug\net8.0\indexer.dll
+C:\c#\indexer\indexer\bin\Debug\net8.0\indexer.pdb
+C:\c#\indexer\indexer\obj\Debug\net8.0\indexer.dll
+C:\c#\indexer\indexer\obj\Debug\net8.0\refint\indexer.dll
+C:\c#\indexer\indexer\obj\Debug\net8.0\indexer.pdb
+C:\c#\indexer\indexer\obj\Debug\net8.0\indexer.genruntimeconfig.cache
+C:\c#\indexer\indexer\obj\Debug\net8.0\ref\indexer.dll

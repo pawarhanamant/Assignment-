@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c#\\polymorphism\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{45C9F14F-AD11-4EAF-8454-DDD34F57D44A}|polymorphism\\polymorphism.csproj|c:\\c#\\polymorphism\\polymorphism\\parttime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C9F14F-AD11-4EAF-8454-DDD34F57D44A}|polymorphism\\polymorphism.csproj|solutionrelative:polymorphism\\parttime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C9F14F-AD11-4EAF-8454-DDD34F57D44A}|polymorphism\\polymorphism.csproj|c:\\c#\\polymorphism\\polymorphism\\eplooye.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C9F14F-AD11-4EAF-8454-DDD34F57D44A}|polymorphism\\polymorphism.csproj|solutionrelative:polymorphism\\eplooye.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C9F14F-AD11-4EAF-8454-DDD34F57D44A}|polymorphism\\polymorphism.csproj|c:\\c#\\polymorphism\\polymorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C9F14F-AD11-4EAF-8454-DDD34F57D44A}|polymorphism\\polymorphism.csproj|solutionrelative:polymorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45C9F14F-AD11-4EAF-8454-DDD34F57D44A}|polymorphism\\polymorphism.csproj|c:\\c#\\polymorphism\\polymorphism\\fulltime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45C9F14F-AD11-4EAF-8454-DDD34F57D44A}|polymorphism\\polymorphism.csproj|solutionrelative:polymorphism\\fulltime.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "fulltime.cs",
+              "DocumentMoniker": "C:\\c#\\polymorphism\\polymorphism\\fulltime.cs",
+              "RelativeDocumentMoniker": "polymorphism\\fulltime.cs",
+              "ToolTip": "C:\\c#\\polymorphism\\polymorphism\\fulltime.cs",
+              "RelativeToolTip": "polymorphism\\fulltime.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T08:45:21.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "parttime.cs",
+              "DocumentMoniker": "C:\\c#\\polymorphism\\polymorphism\\parttime.cs",
+              "RelativeDocumentMoniker": "polymorphism\\parttime.cs",
+              "ToolTip": "C:\\c#\\polymorphism\\polymorphism\\parttime.cs*",
+              "RelativeToolTip": "polymorphism\\parttime.cs*",
+              "ViewState": "AgIAABAAAAAAAAAAAAAiwBkAAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T08:44:19.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "eplooye.cs",
+              "DocumentMoniker": "C:\\c#\\polymorphism\\polymorphism\\eplooye.cs",
+              "RelativeDocumentMoniker": "polymorphism\\eplooye.cs",
+              "ToolTip": "C:\\c#\\polymorphism\\polymorphism\\eplooye.cs",
+              "RelativeToolTip": "polymorphism\\eplooye.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T08:40:37.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c#\\polymorphism\\polymorphism\\Program.cs",
+              "RelativeDocumentMoniker": "polymorphism\\Program.cs",
+              "ToolTip": "C:\\c#\\polymorphism\\polymorphism\\Program.cs",
+              "RelativeToolTip": "polymorphism\\Program.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAqwDAAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T08:31:54.117Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

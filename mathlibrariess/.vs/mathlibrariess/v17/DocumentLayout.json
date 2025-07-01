@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c#\\mathlibrariess\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7AC3588B-A781-419B-878E-A396F9B6255C}|..\\mathslibraryclint\\mathslibraryclint.csproj|c:\\c#\\mathslibraryclint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE0740B-C2ED-42FB-A0D4-C85FEEDF6E81}|mathlibrariess\\mathlibrariess.csproj|c:\\c#\\mathlibrariess\\mathlibrariess\\calculatorclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE0740B-C2ED-42FB-A0D4-C85FEEDF6E81}|mathlibrariess\\mathlibrariess.csproj|solutionrelative:mathlibrariess\\calculatorclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c#\\mathslibraryclint\\Program.cs",
+              "RelativeDocumentMoniker": "..\\mathslibraryclint\\Program.cs",
+              "ToolTip": "C:\\c#\\mathslibraryclint\\Program.cs",
+              "RelativeToolTip": "..\\mathslibraryclint\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T12:07:22.654Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "calculatorclass.cs",
+              "DocumentMoniker": "C:\\c#\\mathlibrariess\\mathlibrariess\\calculatorclass.cs",
+              "RelativeDocumentMoniker": "mathlibrariess\\calculatorclass.cs",
+              "ToolTip": "C:\\c#\\mathlibrariess\\mathlibrariess\\calculatorclass.cs",
+              "RelativeToolTip": "mathlibrariess\\calculatorclass.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T12:04:07.738Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

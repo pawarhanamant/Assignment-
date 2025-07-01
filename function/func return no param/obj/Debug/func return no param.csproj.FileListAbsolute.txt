@@ -1,0 +1,7 @@
+C:\c#\function\func return no param\bin\Debug\func return no param.exe.config
+C:\c#\function\func return no param\bin\Debug\func return no param.exe
+C:\c#\function\func return no param\bin\Debug\func return no param.pdb
+C:\c#\function\func return no param\obj\Debug\func return no param.csproj.AssemblyReference.cache
+C:\c#\function\func return no param\obj\Debug\func return no param.csproj.CoreCompileInputs.cache
+C:\c#\function\func return no param\obj\Debug\func return no param.exe
+C:\c#\function\func return no param\obj\Debug\func return no param.pdb

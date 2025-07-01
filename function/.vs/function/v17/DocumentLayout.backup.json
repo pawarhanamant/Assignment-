@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c#\\function\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74247E20-8610-4637-85E7-7FFF2337D729}|function return with para\\function return with para.csproj|c:\\c#\\function\\function return with para\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74247E20-8610-4637-85E7-7FFF2337D729}|function return with para\\function return with para.csproj|solutionrelative:function return with para\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C45E9824-000C-4251-8DD2-EB818A3A520A}|func return no param\\func return no param.csproj|c:\\c#\\function\\func return no param\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C45E9824-000C-4251-8DD2-EB818A3A520A}|func return no param\\func return no param.csproj|solutionrelative:func return no param\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F85BCC1D-30CD-47CF-8DA9-A7DE551E050C}|function no return param\\function no return param.csproj|c:\\c#\\function\\function no return param\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F85BCC1D-30CD-47CF-8DA9-A7DE551E050C}|function no return param\\function no return param.csproj|solutionrelative:function no return param\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9E553E06-097E-4663-8CA8-70B0C10D1CF5}|function\\function.csproj|c:\\c#\\function\\function\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9E553E06-097E-4663-8CA8-70B0C10D1CF5}|function\\function.csproj|solutionrelative:function\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c#\\function\\function return with para\\Program.cs",
+              "RelativeDocumentMoniker": "function return with para\\Program.cs",
+              "ToolTip": "C:\\c#\\function\\function return with para\\Program.cs",
+              "RelativeToolTip": "function return with para\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T10:10:08.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c#\\function\\func return no param\\Program.cs",
+              "RelativeDocumentMoniker": "func return no param\\Program.cs",
+              "ToolTip": "C:\\c#\\function\\func return no param\\Program.cs",
+              "RelativeToolTip": "func return no param\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T10:06:33.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c#\\function\\function no return param\\Program.cs",
+              "RelativeDocumentMoniker": "function no return param\\Program.cs",
+              "ToolTip": "C:\\c#\\function\\function no return param\\Program.cs",
+              "RelativeToolTip": "function no return param\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T09:58:10.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c#\\function\\function\\Program.cs",
+              "RelativeDocumentMoniker": "function\\Program.cs",
+              "ToolTip": "C:\\c#\\function\\function\\Program.cs",
+              "RelativeToolTip": "function\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-19T09:51:44.68Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

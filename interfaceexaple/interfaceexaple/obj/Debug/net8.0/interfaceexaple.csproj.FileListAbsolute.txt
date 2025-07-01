@@ -1,0 +1,14 @@
+C:\c#\interfaceexaple\interfaceexaple\bin\Debug\net8.0\interfaceexaple.exe
+C:\c#\interfaceexaple\interfaceexaple\bin\Debug\net8.0\interfaceexaple.deps.json
+C:\c#\interfaceexaple\interfaceexaple\bin\Debug\net8.0\interfaceexaple.runtimeconfig.json
+C:\c#\interfaceexaple\interfaceexaple\bin\Debug\net8.0\interfaceexaple.dll
+C:\c#\interfaceexaple\interfaceexaple\bin\Debug\net8.0\interfaceexaple.pdb
+C:\c#\interfaceexaple\interfaceexaple\obj\Debug\net8.0\interfaceexaple.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\interfaceexaple\interfaceexaple\obj\Debug\net8.0\interfaceexaple.AssemblyInfoInputs.cache
+C:\c#\interfaceexaple\interfaceexaple\obj\Debug\net8.0\interfaceexaple.AssemblyInfo.cs
+C:\c#\interfaceexaple\interfaceexaple\obj\Debug\net8.0\interfaceexaple.csproj.CoreCompileInputs.cache
+C:\c#\interfaceexaple\interfaceexaple\obj\Debug\net8.0\interfaceexaple.dll
+C:\c#\interfaceexaple\interfaceexaple\obj\Debug\net8.0\refint\interfaceexaple.dll
+C:\c#\interfaceexaple\interfaceexaple\obj\Debug\net8.0\interfaceexaple.pdb
+C:\c#\interfaceexaple\interfaceexaple\obj\Debug\net8.0\interfaceexaple.genruntimeconfig.cache
+C:\c#\interfaceexaple\interfaceexaple\obj\Debug\net8.0\ref\interfaceexaple.dll

@@ -1,0 +1,14 @@
+C:\c#\propertiesexamplee\propertiesexamplee\bin\Debug\net8.0\propertiesexamplee.exe
+C:\c#\propertiesexamplee\propertiesexamplee\bin\Debug\net8.0\propertiesexamplee.deps.json
+C:\c#\propertiesexamplee\propertiesexamplee\bin\Debug\net8.0\propertiesexamplee.runtimeconfig.json
+C:\c#\propertiesexamplee\propertiesexamplee\bin\Debug\net8.0\propertiesexamplee.dll
+C:\c#\propertiesexamplee\propertiesexamplee\bin\Debug\net8.0\propertiesexamplee.pdb
+C:\c#\propertiesexamplee\propertiesexamplee\obj\Debug\net8.0\propertiesexamplee.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\propertiesexamplee\propertiesexamplee\obj\Debug\net8.0\propertiesexamplee.AssemblyInfoInputs.cache
+C:\c#\propertiesexamplee\propertiesexamplee\obj\Debug\net8.0\propertiesexamplee.AssemblyInfo.cs
+C:\c#\propertiesexamplee\propertiesexamplee\obj\Debug\net8.0\propertiesexamplee.csproj.CoreCompileInputs.cache
+C:\c#\propertiesexamplee\propertiesexamplee\obj\Debug\net8.0\propertiesexamplee.dll
+C:\c#\propertiesexamplee\propertiesexamplee\obj\Debug\net8.0\refint\propertiesexamplee.dll
+C:\c#\propertiesexamplee\propertiesexamplee\obj\Debug\net8.0\propertiesexamplee.pdb
+C:\c#\propertiesexamplee\propertiesexamplee\obj\Debug\net8.0\propertiesexamplee.genruntimeconfig.cache
+C:\c#\propertiesexamplee\propertiesexamplee\obj\Debug\net8.0\ref\propertiesexamplee.dll

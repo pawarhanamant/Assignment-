@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "extentionmethod practice/1.0.0": {
+        "runtime": {
+          "extentionmethod practice.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "extentionmethod practice/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

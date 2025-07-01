@@ -1,0 +1,7 @@
+C:\c#\primeor not\bin\Debug\primeor not.exe.config
+C:\c#\primeor not\bin\Debug\primeor not.exe
+C:\c#\primeor not\bin\Debug\primeor not.pdb
+C:\c#\primeor not\obj\Debug\primeor not.csproj.AssemblyReference.cache
+C:\c#\primeor not\obj\Debug\primeor not.csproj.CoreCompileInputs.cache
+C:\c#\primeor not\obj\Debug\primeor not.exe
+C:\c#\primeor not\obj\Debug\primeor not.pdb

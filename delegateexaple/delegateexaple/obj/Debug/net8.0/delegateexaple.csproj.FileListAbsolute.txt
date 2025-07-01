@@ -1,0 +1,14 @@
+C:\c#\delegateexaple\delegateexaple\bin\Debug\net8.0\delegateexaple.exe
+C:\c#\delegateexaple\delegateexaple\bin\Debug\net8.0\delegateexaple.deps.json
+C:\c#\delegateexaple\delegateexaple\bin\Debug\net8.0\delegateexaple.runtimeconfig.json
+C:\c#\delegateexaple\delegateexaple\bin\Debug\net8.0\delegateexaple.dll
+C:\c#\delegateexaple\delegateexaple\bin\Debug\net8.0\delegateexaple.pdb
+C:\c#\delegateexaple\delegateexaple\obj\Debug\net8.0\delegateexaple.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\delegateexaple\delegateexaple\obj\Debug\net8.0\delegateexaple.AssemblyInfoInputs.cache
+C:\c#\delegateexaple\delegateexaple\obj\Debug\net8.0\delegateexaple.AssemblyInfo.cs
+C:\c#\delegateexaple\delegateexaple\obj\Debug\net8.0\delegateexaple.csproj.CoreCompileInputs.cache
+C:\c#\delegateexaple\delegateexaple\obj\Debug\net8.0\delegateexaple.dll
+C:\c#\delegateexaple\delegateexaple\obj\Debug\net8.0\refint\delegateexaple.dll
+C:\c#\delegateexaple\delegateexaple\obj\Debug\net8.0\delegateexaple.pdb
+C:\c#\delegateexaple\delegateexaple\obj\Debug\net8.0\delegateexaple.genruntimeconfig.cache
+C:\c#\delegateexaple\delegateexaple\obj\Debug\net8.0\ref\delegateexaple.dll

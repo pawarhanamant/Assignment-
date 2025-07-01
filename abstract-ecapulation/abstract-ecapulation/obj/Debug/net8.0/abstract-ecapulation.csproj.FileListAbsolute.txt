@@ -1,0 +1,14 @@
+C:\c#\abstract-ecapulation\abstract-ecapulation\bin\Debug\net8.0\abstract-ecapulation.exe
+C:\c#\abstract-ecapulation\abstract-ecapulation\bin\Debug\net8.0\abstract-ecapulation.deps.json
+C:\c#\abstract-ecapulation\abstract-ecapulation\bin\Debug\net8.0\abstract-ecapulation.runtimeconfig.json
+C:\c#\abstract-ecapulation\abstract-ecapulation\bin\Debug\net8.0\abstract-ecapulation.dll
+C:\c#\abstract-ecapulation\abstract-ecapulation\bin\Debug\net8.0\abstract-ecapulation.pdb
+C:\c#\abstract-ecapulation\abstract-ecapulation\obj\Debug\net8.0\abstract-ecapulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\abstract-ecapulation\abstract-ecapulation\obj\Debug\net8.0\abstract-ecapulation.AssemblyInfoInputs.cache
+C:\c#\abstract-ecapulation\abstract-ecapulation\obj\Debug\net8.0\abstract-ecapulation.AssemblyInfo.cs
+C:\c#\abstract-ecapulation\abstract-ecapulation\obj\Debug\net8.0\abstract-ecapulation.csproj.CoreCompileInputs.cache
+C:\c#\abstract-ecapulation\abstract-ecapulation\obj\Debug\net8.0\abstract-ecapulation.dll
+C:\c#\abstract-ecapulation\abstract-ecapulation\obj\Debug\net8.0\refint\abstract-ecapulation.dll
+C:\c#\abstract-ecapulation\abstract-ecapulation\obj\Debug\net8.0\abstract-ecapulation.pdb
+C:\c#\abstract-ecapulation\abstract-ecapulation\obj\Debug\net8.0\abstract-ecapulation.genruntimeconfig.cache
+C:\c#\abstract-ecapulation\abstract-ecapulation\obj\Debug\net8.0\ref\abstract-ecapulation.dll

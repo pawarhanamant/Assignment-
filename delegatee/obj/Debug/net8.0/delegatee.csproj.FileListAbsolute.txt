@@ -1,0 +1,14 @@
+C:\c#\delegatee\bin\Debug\net8.0\delegatee.exe
+C:\c#\delegatee\bin\Debug\net8.0\delegatee.deps.json
+C:\c#\delegatee\bin\Debug\net8.0\delegatee.runtimeconfig.json
+C:\c#\delegatee\bin\Debug\net8.0\delegatee.dll
+C:\c#\delegatee\bin\Debug\net8.0\delegatee.pdb
+C:\c#\delegatee\obj\Debug\net8.0\delegatee.GeneratedMSBuildEditorConfig.editorconfig
+C:\c#\delegatee\obj\Debug\net8.0\delegatee.AssemblyInfoInputs.cache
+C:\c#\delegatee\obj\Debug\net8.0\delegatee.AssemblyInfo.cs
+C:\c#\delegatee\obj\Debug\net8.0\delegatee.csproj.CoreCompileInputs.cache
+C:\c#\delegatee\obj\Debug\net8.0\delegatee.dll
+C:\c#\delegatee\obj\Debug\net8.0\refint\delegatee.dll
+C:\c#\delegatee\obj\Debug\net8.0\delegatee.pdb
+C:\c#\delegatee\obj\Debug\net8.0\delegatee.genruntimeconfig.cache
+C:\c#\delegatee\obj\Debug\net8.0\ref\delegatee.dll

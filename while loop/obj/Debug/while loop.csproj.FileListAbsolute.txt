@@ -1,0 +1,7 @@
+C:\c#\while loop\bin\Debug\while loop.exe.config
+C:\c#\while loop\bin\Debug\while loop.exe
+C:\c#\while loop\bin\Debug\while loop.pdb
+C:\c#\while loop\obj\Debug\while loop.csproj.AssemblyReference.cache
+C:\c#\while loop\obj\Debug\while loop.csproj.CoreCompileInputs.cache
+C:\c#\while loop\obj\Debug\while loop.exe
+C:\c#\while loop\obj\Debug\while loop.pdb

@@ -1,0 +1,69 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c#\\static\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{689D1BB4-5983-43C5-8566-1857B3F709FD}|..\\staticconstructor\\staticconstructor.csproj|c:\\c#\\staticconstructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D261935-D100-46AC-9403-2FF0265B4B10}|..\\staticmethod\\staticmethod.csproj|c:\\c#\\staticmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5F4C10E9-F581-4880-9481-D4DB07EF143D}|static\\static.csproj|c:\\c#\\static\\static\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5F4C10E9-F581-4880-9481-D4DB07EF143D}|static\\static.csproj|solutionrelative:static\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c#\\staticconstructor\\Program.cs",
+              "RelativeDocumentMoniker": "..\\staticconstructor\\Program.cs",
+              "ToolTip": "C:\\c#\\staticconstructor\\Program.cs",
+              "RelativeToolTip": "..\\staticconstructor\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T09:07:45.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c#\\staticmethod\\Program.cs",
+              "RelativeDocumentMoniker": "..\\staticmethod\\Program.cs",
+              "ToolTip": "C:\\c#\\staticmethod\\Program.cs",
+              "RelativeToolTip": "..\\staticmethod\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T08:45:38.433Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c#\\static\\static\\Program.cs",
+              "RelativeDocumentMoniker": "static\\Program.cs",
+              "ToolTip": "C:\\c#\\static\\static\\Program.cs",
+              "RelativeToolTip": "static\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowB8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T08:28:32.009Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

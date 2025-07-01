@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c#\\class\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4014BDA1-F272-4B69-85B0-D4BD6E992C34}|..\\class2\\class2.csproj|c:\\c#\\class2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB3FD346-1F59-446D-A808-BA51317F4CB3}|..\\parmeterizedmethod\\parmeterizedmethod.csproj|c:\\c#\\parmeterizedmethod\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D50B1BD-A68C-458C-B42B-7FA27E134306}|..\\parameterconstructor\\parameterconstructor.csproj|c:\\c#\\parameterconstructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D4F15A5-A5C3-446A-AD81-4F825469CF5A}|class\\class.csproj|c:\\c#\\class\\class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D4F15A5-A5C3-446A-AD81-4F825469CF5A}|class\\class.csproj|solutionrelative:class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c#\\class2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\class2\\Program.cs",
+              "ToolTip": "C:\\c#\\class2\\Program.cs",
+              "RelativeToolTip": "..\\class2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T07:37:19.79Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c#\\parmeterizedmethod\\Program.cs",
+              "RelativeDocumentMoniker": "..\\parmeterizedmethod\\Program.cs",
+              "ToolTip": "C:\\c#\\parmeterizedmethod\\Program.cs",
+              "RelativeToolTip": "..\\parmeterizedmethod\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAwwBoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T07:20:01.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c#\\parameterconstructor\\Program.cs",
+              "RelativeDocumentMoniker": "..\\parameterconstructor\\Program.cs",
+              "ToolTip": "C:\\c#\\parameterconstructor\\Program.cs",
+              "RelativeToolTip": "..\\parameterconstructor\\Program.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAIwBkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T07:11:52.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c#\\class\\class\\Program.cs",
+              "RelativeDocumentMoniker": "class\\Program.cs",
+              "ToolTip": "C:\\c#\\class\\class\\Program.cs",
+              "RelativeToolTip": "class\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAowBIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-27T07:01:12.942Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

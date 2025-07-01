@@ -1,0 +1,7 @@
+C:\c#\multidimentional array\multidimentional array\bin\Debug\multidimentional array.exe.config
+C:\c#\multidimentional array\multidimentional array\bin\Debug\multidimentional array.exe
+C:\c#\multidimentional array\multidimentional array\bin\Debug\multidimentional array.pdb
+C:\c#\multidimentional array\multidimentional array\obj\Debug\multidimentional array.csproj.AssemblyReference.cache
+C:\c#\multidimentional array\multidimentional array\obj\Debug\multidimentional array.csproj.CoreCompileInputs.cache
+C:\c#\multidimentional array\multidimentional array\obj\Debug\multidimentional array.exe
+C:\c#\multidimentional array\multidimentional array\obj\Debug\multidimentional array.pdb

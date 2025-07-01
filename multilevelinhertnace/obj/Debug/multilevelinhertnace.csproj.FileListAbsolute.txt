@@ -1,0 +1,7 @@
+C:\c#\multilevelinhertnace\bin\Debug\multilevelinhertnace.exe.config
+C:\c#\multilevelinhertnace\bin\Debug\multilevelinhertnace.exe
+C:\c#\multilevelinhertnace\bin\Debug\multilevelinhertnace.pdb
+C:\c#\multilevelinhertnace\obj\Debug\multilevelinhertnace.csproj.AssemblyReference.cache
+C:\c#\multilevelinhertnace\obj\Debug\multilevelinhertnace.csproj.CoreCompileInputs.cache
+C:\c#\multilevelinhertnace\obj\Debug\multilevelinhertnace.exe
+C:\c#\multilevelinhertnace\obj\Debug\multilevelinhertnace.pdb

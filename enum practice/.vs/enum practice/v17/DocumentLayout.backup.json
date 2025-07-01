@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\c#\\enum practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9737D165-9C18-4E04-9E8B-40C504DCC5D3}|enum practice\\enum practice.csproj|c:\\c#\\enum practice\\enum practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9737D165-9C18-4E04-9E8B-40C504DCC5D3}|enum practice\\enum practice.csproj|solutionrelative:enum practice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9737D165-9C18-4E04-9E8B-40C504DCC5D3}|enum practice\\enum practice.csproj|c:\\c#\\enum practice\\enum practice\\enum practice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9737D165-9C18-4E04-9E8B-40C504DCC5D3}|enum practice\\enum practice.csproj|solutionrelative:enum practice\\enum practice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "enum practice.cs",
+              "DocumentMoniker": "C:\\c#\\enum practice\\enum practice\\enum practice.cs",
+              "RelativeDocumentMoniker": "enum practice\\enum practice.cs",
+              "ToolTip": "C:\\c#\\enum practice\\enum practice\\enum practice.cs*",
+              "RelativeToolTip": "enum practice\\enum practice.cs*",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA1wAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T13:07:20.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\c#\\enum practice\\enum practice\\Program.cs",
+              "RelativeDocumentMoniker": "enum practice\\Program.cs",
+              "ToolTip": "C:\\c#\\enum practice\\enum practice\\Program.cs*",
+              "RelativeToolTip": "enum practice\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T13:06:43.682Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
